@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module2">MODULE 2 : NUMERATION ET ALGORITHMES</string>
+    <string name="chapitre5">CHAPITRE 5 :UTILISATION DESSYSTEMES DENUMERATION</string>
+    <string name="Leçon15">Généralités sur les systèmes de numération</string>
+    <string name="Leçon16">Conversion d’un nombre d’une base à une autre</string>
+    <string name="Leçon17">Opérations Arithmétiques dans les bases usuelles 2, 8 et 16</string>
+    <string name="chapitre6">CHAPITRE 6 : CODIFICATION DESINFORMATIONS ENINFORMATIQUE</string>
+    <string name="Leçon18">Généralités sur la codification de l’information</string>
+    <string name="Leçon19">Le Codage des expressions en ASCII</string>
+    <string name="chapitre7">CHAPITRE 7 :UTILISER LES UNITES DEMESURE ENINFORMATIQUE</string>
+    <string name="Leçon20">Les unités de mesure de capacités</string>
+    <string name="Leçon21">Les unités de mesures de performance de quelques composants matériels</string>
+    <string name="chapitre8">CHAPITRE 8 : EXECUTION D’UNALGORITHME</string>
+    <string name="Leçon22"> La notion d’algorithme</string>
+    <string name="Leçon23">Les objets et les instructions algorithmiques</string>
+    <string name="Leçon24">Les structures de contrôle et Organigrammes enalgorithmique</string>
+    <string name="Leçon25">Exécution des algorithmes simples</string>
+</resources>

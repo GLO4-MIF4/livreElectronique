@@ -6,13 +6,35 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <RelativeLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        tools:ignore="MissingConstraints">
+        <androidx.viewpager.widget.ViewPager
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/viewpager"/>
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tabLayout"
+            app:tabGravity="center"
+            app:tabMode="scrollable"
+            android:outlineAmbientShadowColor="@color/black"
+            android:outlineSpotShadowColor="@color/Jaune_pale"
+            app:tabTextColor="@color/Gris_fonce"
+            app:tabIndicatorColor="@color/Rouge_cerise_quiz"
+            app:tabRippleColor="@color/vert_menthe_fort"
+            app:tabSelectedTextColor="@color/black_overlay"
+            android:background="@color/vert_menthe"
+            android:layout_alignParentBottom="true">
+        </com.google.android.material.tabs.TabLayout>
+
+
+
+    </RelativeLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

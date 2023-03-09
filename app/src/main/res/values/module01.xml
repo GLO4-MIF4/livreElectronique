@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moudel1">MODULE 1 : ARCHITECTURE, MAINTENANCE ET TABLEUR</string>
+    <string name="chapitre1">CHAPITRE 1 : LES ELEMENTS MATERIELSD’UN SYSTEMEINFORMATIQUE</string>
+    <string name="lecon1">L’unité centrale et son contenu</string>
+    <string name="lecon2">Les éléments périphériques d’un ordinateur</string>
+    <string name="chapitre2">CHAPITRE 2 : DECRIRE LES LOGICIELS</string>
+    <string name="lecon3">Les logiciels système</string>
+    <string name="lecon4">Les logiciels d’applications</string>
+    <string name="chapitre3"> CHAPITRE 3 : LE FONCTIONNEMENT DEL’ORDINATEUR</string>
+    <string name="lecon5">Initiation à la maintenance informatique</string>
+    <string name="lecon6"> Causes du dysfonctionnement et mesures de protection du matériel informatique</string>
+    <string name="lecon7">Causes du dysfonctionnement et mesures de protection dulogiciel informatique</string>
+    <string name="lecon8">Optimisation d’un ordinateur</string>
+    <string name="chapitre4">CHAPITRE 4 : UTILISATION DESFONCTIONS D’UN TABLEUR</string>
+    <string name="lecon9">Généralités sur les tableurs</string>
+    <string name="lecon10">La saisie et recopie d’une formule</string>
+    <string name="lecon11">Mise en forme conditionnelle</string>
+    <string name="lecon12">Les fonctions de texte, date et heure</string>
+    <string name="lecon13">Les fonctions mathématiques</string>
+    <string name="lecon14">Représentation de Graphiques dans un Tableur</string>
+</resources>

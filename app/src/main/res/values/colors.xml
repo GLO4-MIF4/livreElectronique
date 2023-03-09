@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_500">#00BFA5</color>
+    <color name="purple_700">#00BFA5</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--    interfaces 1 -->
+    <!--    Couleur principale : Vert menthe (#00BFA5)-->
+    <!--    Couleur d'accent : Jaune pâle (#FFF176)-->
+    <!--    Couleur de fond : Blanc (#FFFFFF)-->
+    <!--    Couleur du texte : Gris foncé (#333333)-->
+
+    <color name="vert_menthe">#00BFA5</color>
+    <color name="vert_menthe_fort">#019C87</color>
+    <color name="Jaune_pale">#FFF176</color>
+    <color name="Blanc">#FFFFFF</color>
+    <color name="Gris_fonce">#333333</color>
+
+    <!--    Couleur principale : Rose poudré (#F06292)-->
+    <!--    Couleur d'accent : Gris clair (#E0E0E0)-->
+    <!--    Couleur de fond : Blanc (#FFFFFF)-->
+    <!--    Couleur du texte : Noir (#000000)-->
+
+    <!--    interface jargorn-->
+    <color name="Rose_poudre_jar">#F06292</color>
+    <color name="Gris_clair_jar">#E0E0E0</color>
+    <color name="Blanc1_jar">#FFFFFF</color>
+    <color name="Noir_jar">#000000</color>
+
+    <!--    Couleur principale : Orange pastel (#FFB74D)-->
+    <!--    Couleur d'accent : Gris foncé (#616161)-->
+    <!--    Couleur de fond : Blanc cassé (#FAF8F5)-->
+    <!--    Couleur du texte : Noir (#000000)-->
+    <color>#FFB74D</color>
+    <color>#616161</color>
+    <color>#FAF8F5</color>
+    <color>#000000</color>
+
+    <!--    Couleur principale : Bleu-gris (#78909C)-->
+    <!--    Couleur d'accent : Jaune moutarde (#FFB300)-->
+    <!--    Couleur de fond : Blanc (#FFFFFF)-->
+    <!--    Couleur du texte : Noir (#000000)-->
+    <color>#78909C</color>
+    <color>#FFB300</color>
+    <color>#FFFFFF</color>
+    <color>#000000</color>
+    <!--    Couleur principale : Violet clair (#BA68C8)-->
+    <!--    Couleur d'accent : Jaune clair (#FFF59D)-->
+    <!--    Couleur de fond : Gris clair (#F5F5F5)-->
+    <!--    Couleur du texte : Noir (#000000)-->
+
+    <!--    interface exercices-->
+
+    <color name="Violet_clair_exr">#BA68C8</color>
+    <color name="Jaune_clair_exr">#FFF59D</color>
+    <color name="Gris_clair_exr">#F5F5F5</color>
+    <color name="Noir_exr">#000000</color>
+    <!--    Couleur principale : Turquoise (#26C6DA)-->
+    <!--    Couleur d'accent : Corail (#FF8A65)-->
+    <!--    Couleur de fond : Blanc (#FFFFFF)-->
+    <!--    Couleur du texte : Gris foncé (#333333)-->
+    <color>#26C6DA</color>
+    <color>#FF8A65</color>
+    <color>#FFFFFF</color>
+    <color>#333333</color>
+    <!--    Couleur principale : Jaune moutarde (#FFB300)-->
+    <!--    Couleur d'accent : Gris foncé (#424242)-->
+    <!--    Couleur de fond : Blanc cassé (#FAF8F5)-->
+    <!--    Couleur du texte : Noir (#000000)-->
+    <color>#FFB300</color>
+    <color>#424242</color>
+    <color>#FAF8F5</color>
+    <color>#000000</color>
+    <!--    Couleur principale : Rouge cerise (#E57373)-->
+    <!--    Couleur d'accent : Bleu clair (#81D4FA)-->
+    <!--    Couleur de fond : Blanc (#FFFFFF)-->
+    <!--    Couleur du texte : Gris foncé (#333333)-->
+
+    <!--    interface quiz-->
+
+    <color name="Rouge_cerise_quiz">#E57373</color>
+    <color name="Bleu_clair_quiz">#81D4FA</color>
+    <color name="Blanc_quiz">#FFFFFF</color>
+    <color name="Gris_foncé_quiz">#333333</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
 </resources>
