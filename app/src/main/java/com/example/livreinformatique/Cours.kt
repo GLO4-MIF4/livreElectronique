@@ -1,29 +1,53 @@
 package com.example.livreinformatique
 
+import android.annotation.SuppressLint
+import android.content.Intent
 import android.content.res.Resources
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
-import com.example.livreinformatique.Adaptateur.LeconAdaptater
-import com.example.livreinformatique.Adaptateur.Lecons
+import android.view.View
+import android.widget.LinearLayout
+import com.example.livreinformatique.iten.item_courts
 
 class Cours : AppCompatActivity() {
+    @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_cours)
 
-
-//        var list : RecyclerView = findViewById(R.id.chapitre1)
-//        val res : Resources = resources
-//        val leconsChpa1 : Array<String> = res.getStringArray(R.array.chap1)
-//        val listData = arrayListOf<Lecons>()
-//        for ( i in leconsChpa1.indices){
-//            listData.add(Lecons(leconsChpa1[i]))
+        val res : Resources = resources
+        val  containCours : Array<String> = res.getStringArray(R.array.lecons)
+//
+//        var tab1 :ArrayList<String>
+//        tab1 = listOf("") as ArrayList<String>
+//
+//        var tab2 :ArrayList<String>
+//        tab2 = listOf("") as ArrayList<String>
+////        divisions des lecons des modules
+//
+//        var compt = 0
+//        containCours.forEach {
+//            if (compt <14 ){
+//                tab1.add(it)
+//            }else{
+//                tab2.add(it)
+//            }
 //        }
+//        tab2.removeAt(0)
+//        tab1.removeAt(0)
+//
 
-        //        var listAdaptateur = LeconAdaptater(listData)
-//        list.adapter = listAdaptateur
-//        list.layoutManager = LinearLayoutManager(this)
+
+        var button : LinearLayout = findViewById(R.id.CrLecon1)
+        button.setOnClickListener(View.OnClickListener {
+            afficherLecons( containCours[0] )
+        })
+
+    }
+
+    fun afficherLecons( string: String) {
+        val intent = Intent(this,item_courts::class.java)
+        intent.putExtra("Lecons", string)
+        startActivity(intent)
     }
 }

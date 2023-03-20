@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lecons>
+    <lecon>
+        <titre>L'unité centrale et son contenu</titre>
+        <image>"@drawable/unite_Cenrale</image>
+        <contenu>
+            <paragraphe>
+                L'unité centrale est l'un des principaux composants d'un ordinateur, qui abrite tous les composants clés nécessaires au bon fonctionnement de l'ensemble du système.
+            </paragraphe>
+
+            <sous-titre>Les composants clés de l'unité centrale</sous-titre>
+            <liste>
+                <paragraphe>Le processeur - Le cerveau de l'ordinateur</paragraphe>
+                <paragraphe>La mémoire vive (RAM) - Le stockage temporaire de données</paragraphe>
+                <paragraphe>La carte mère - Le circuit principal de l'ordinateur</paragraphe>
+                <paragraphe>Le disque dur - Le stockage permanent des données</paragraphe>
+                <paragraphe>L'alimentation électrique - Fournit de l'énergie à tous les composants de l'ordinateur</paragraphe>
+            </liste>
+            <sous-titre>Le processeur</sous-titre>
+            <paragraphe>
+                Le processeur est le composant le plus important de l'unité centrale et est responsable de l'exécution des instructions et des calculs nécessaires au fonctionnement de l'ensemble du système.
+            </paragraphe>
+            <sous-titre>La mémoire vive (RAM)</sous-titre>
+            <paragraphe>
+                La mémoire vive est utilisée pour stocker temporairement les informations que le processeur utilise actuellement. La quantité de RAM disponible est un facteur important pour déterminer les performances de l'ordinateur.
+            </paragraphe>
+            <sous-titre>La carte mère</sous-titre>
+            <paragraphe>
+                La carte mère est le circuit principal de l'ordinateur, elle connecte tous les autres composants entre eux. Elle comprend des ports pour connecter les périphériques externes tels que la souris, le clavier, l'imprimante, etc.
+            </paragraphe>
+            <sous-titre>Le disque dur</sous-titre>
+            <paragraphe>
+                Le disque dur est le composant qui stocke les données de manière permanente, même lorsque l'ordinateur est éteint. La capacité de stockage du disque dur est un autre facteur important à considérer lors de l'achat d'un ordinateur.
+            </paragraphe>
+            <sous-titre>L'alimentation électrique</sous-titre>
+            <paragraphe>
+                L'alimentation électrique fournit de l'énergie à tous les composants de l'ordinateur.
+            </paragraphe>
+            <paragraphe>
+                En résumé, l'unité centrale est l'élément clé de tout ordinateur, elle contient les composants qui assurent le fonctionnement de l'ensemble du système. Les composants les plus importants sont le processeur, la mémoire vive, la carte mère, le disque dur et l'alimentation électrique.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Les éléments périphériques d'un ordinateur</titre>
+        <contenu>
+            <paragraphe>
+                Les éléments périphériques d'un ordinateur sont tous les composants qui ne sont pas situés dans l'unité centrale, mais qui sont nécessaires pour l'utilisation de l'ordinateur. Ces éléments sont souvent connectés à l'ordinateur via des câbles ou des connexions sans fil.
+            </paragraphe>
+            <sous-titre>La souris</sous-titre>
+            <image>"@drawable/souris"</image>
+            <paragraphe>
+                La souris est un périphérique d'entrée qui permet de contrôler le curseur à l'écran. Elle est souvent utilisée en conjonction avec le clavier pour interagir avec l'interface utilisateur de l'ordinateur.
+            </paragraphe>
+            <sous-titre>Le clavier</sous-titre>
+            <image>"@drawable/clavier"</image>
+            <paragraphe>
+                Le clavier est un autre périphérique d'entrée qui permet de saisir du texte et de contrôler certaines fonctionnalités de l'ordinateur. Il est souvent utilisé en conjonction avec la souris pour interagir avec l'interface utilisateur de l'ordinateur.
+            </paragraphe>
+            <sous-titre>L'écran</sous-titre>
+            <image>"@drawable/ecran"</image>
+            <paragraphe>
+                L'écran est un périphérique de sortie qui affiche les informations visuelles générées par l'ordinateur. Les écrans modernes sont souvent plats et utilisent des technologies telles que LCD, LED ou OLED pour produire des images de haute qualité.
+            </paragraphe>
+            <sous-titre>L'imprimante</sous-titre>
+            <image>"@drawable/imprimante"</image>
+            <paragraphe>
+                L'imprimante est un périphérique de sortie qui permet de produire des copies physiques de documents, de photos ou d'autres types de contenu. Il existe différents types d'imprimantes, tels que les imprimantes à jet d'encre, les imprimantes laser et les imprimantes 3D.
+            </paragraphe>
+            <sous-titre>Le scanner</sous-titre>
+            <image>"@drawable/scanner"</image>
+            <paragraphe>
+                Le scanner est un périphérique d'entrée qui permet de numériser des documents ou des images pour les enregistrer sous forme de fichiers numériques sur l'ordinateur. Il existe des scanners à plat, des scanners de document et des scanners de film, qui sont utilisés pour numériser des diapositives ou des négatifs de films.
+            </paragraphe>
+            <paragraphe>
+                En conclusion, les éléments périphériques d'un ordinateur sont des composants essentiels pour son utilisation. Les éléments périphériques les plus courants sont la souris, le clavier, l'écran, l'im
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Les logiciels système</titre>
+        <contenu>
+            <paragraphe>
+                Les logiciels système sont des programmes qui sont utilisés pour gérer les ressources matérielles et logicielles d'un ordinateur. Ils sont généralement installés sur l'ordinateur lors de sa création et sont essentiels pour son bon fonctionnement.
+            </paragraphe>
+            <sous-titre>Le système d'exploitation</sous-titre>
+            <image>chemin/vers/image/systeme_exploitation.jpg</image>
+            <paragraphe>
+                Le système d'exploitation est le logiciel système le plus important. Il gère toutes les ressources matérielles et logicielles de l'ordinateur, telles que le processeur, la mémoire, les périphériques, les fichiers et les programmes. Il fournit également une interface utilisateur pour interagir avec l'ordinateur.
+            </paragraphe>
+            <sous-titre>Les pilotes</sous-titre>
+            <image>chemin/vers/image/pilotes.jpg</image>
+            <paragraphe>
+                Les pilotes sont des logiciels qui permettent à l'ordinateur de communiquer avec des périphériques spécifiques. Ils sont souvent fournis par le fabricant du périphérique et doivent être installés sur l'ordinateur pour que le périphérique fonctionne correctement.
+            </paragraphe>
+            <sous-titre>Les utilitaires système</sous-titre>
+            <image>chemin/vers/image/utilitaires_systeme.jpg</image>
+            <paragraphe>
+                Les utilitaires système sont des programmes qui sont utilisés pour effectuer des tâches spécifiques liées à la maintenance et à l'optimisation de l'ordinateur. Certains exemples d'utilitaires système incluent les programmes antivirus, les nettoyeurs de registre et les programmes de défragmentation de disque.
+            </paragraphe>
+            <sous-titre>Les bibliothèques de fichiers</sous-titre>
+            <image>chemin/vers/image/bibliotheques_fichiers.jpg</image>
+            <paragraphe>
+                Les bibliothèques de fichiers sont des collections de fichiers qui sont utilisés par différents programmes sur l'ordinateur. Elles permettent aux programmes de partager des ressources, telles que des images, des polices et des fichiers de configuration, ce qui permet d'économiser de l'espace de stockage et de faciliter la gestion des fichiers.
+            </paragraphe>
+            <sous-titre>Les programmes utilitaires</sous-titre>
+            <image>chemin/vers/image/programmes_utilitaires.jpg</image>
+            <paragraphe>
+                Les programmes utilitaires sont des programmes qui sont utilisés pour effectuer des tâches spécifiques liées à la productivité et à la créativité. Certains exemples de programmes utilitaires incluent les programmes de traitement de texte, les programmes de retouche d'image et les programmes de montage vidéo.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Les logiciels d'applications</titre>
+        <contenu>
+            <paragraphe>
+                Les logiciels d'applications sont des programmes informatiques qui sont utilisés pour effectuer des tâches spécifiques sur un ordinateur. Ils sont souvent installés par l'utilisateur ou par l'entreprise sur l'ordinateur et sont conçus pour répondre à des besoins spécifiques.
+            </paragraphe>
+            <sous-titre>Les suites bureautiques</sous-titre>
+            <image>chemin/vers/image/suite_bureautique.jpg</image>
+            <paragraphe>
+                Les suites bureautiques sont des ensembles de programmes qui sont utilisés pour effectuer des tâches liées à la bureautique, telles que la rédaction de documents, la création de présentations et la gestion des feuilles de calcul. Les suites bureautiques les plus connues sont Microsoft Office, Google Workspace et LibreOffice.
+            </paragraphe>
+            <sous-titre>Les logiciels de communication</sous-titre>
+            <image>chemin/vers/image/logiciels_communication.jpg</image>
+            <paragraphe>
+                Les logiciels de communication sont des programmes qui permettent aux utilisateurs de communiquer avec d'autres personnes à distance, que ce soit par la messagerie instantanée, la vidéoconférence ou la voix sur IP. Certains exemples de logiciels de communication sont Skype, Slack et Zoom.
+            </paragraphe>
+            <sous-titre>Les logiciels de création</sous-titre>
+            <image>chemin/vers/image/logiciels_creation.jpg</image>
+            <paragraphe>
+                Les logiciels de création sont des programmes qui sont utilisés pour la création et la modification de contenu numérique, tels que des images, des vidéos et des animations. Les logiciels de création les plus connus sont Adobe Photoshop, Adobe Premiere Pro et Blender.
+            </paragraphe>
+            <sous-titre>Les logiciels éducatifs</sous-titre>
+            <image>chemin/vers/image/logiciels_educatifs.jpg</image>
+            <paragraphe>
+                Les logiciels éducatifs sont des programmes qui sont conçus pour aider les étudiants à apprendre de manière interactive et ludique. Ils peuvent couvrir de nombreux sujets, tels que les mathématiques, les sciences et l'histoire. Certains exemples de logiciels éducatifs sont Khan Academy, Duolingo et Rosetta Stone.
+            </paragraphe>
+            <sous-titre>Les jeux vidéo</sous-titre>
+            <image>chemin/vers/image/jeux_video.jpg</image>
+            <paragraphe>
+                Les jeux vidéo sont des logiciels d'applications qui sont conçus pour offrir un divertissement interactif aux utilisateurs. Ils peuvent être installés sur un ordinateur ou être joués en ligne. Certains exemples de jeux vidéo sont Minecraft, Fortnite et Call of Duty.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Initiation à la maintenance informatique</titre>
+        <contenu>
+            <paragraphe>
+                La maintenance informatique consiste à maintenir et à améliorer le fonctionnement des équipements informatiques tels que les ordinateurs, les imprimantes et les réseaux. Elle peut être effectuée à titre préventif ou curatif.
+            </paragraphe>
+            <sous-titre>Les précautions à prendre</sous-titre>
+            <paragraphe>
+                Avant de commencer toute intervention sur un équipement informatique, il est important de prendre certaines précautions pour éviter les risques d'électrocution et de dommages matériels. Il est conseillé de porter des gants isolants, de travailler sur un sol sec et de débrancher l'équipement avant toute intervention.
+            </paragraphe>
+            <sous-titre>Le nettoyage de l'équipement</sous-titre>
+            <paragraphe>
+                Le nettoyage régulier de l'équipement informatique permet d'éviter les problèmes de surchauffe et de dysfonctionnement. Il est recommandé d'utiliser des produits de nettoyage spécialement conçus pour l'informatique, tels que des bombes à air comprimé ou des chiffons antistatiques.
+            </paragraphe>
+            <sous-titre>Le remplacement des composants défectueux</sous-titre>
+            <paragraphe>
+                Lorsqu'un composant informatique est défectueux, il doit être remplacé pour assurer le bon fonctionnement de l'équipement. Les composants les plus couramment remplacés sont les disques durs, les barrettes de mémoire et les cartes graphiques. Il est important de choisir des composants compatibles avec l'équipement existant.
+            </paragraphe>
+            <sous-titre>La mise à jour des logiciels</sous-titre>
+            <paragraphe>
+                Les mises à jour de logiciels sont essentielles pour assurer la sécurité et la performance de l'équipement informatique. Il est recommandé de vérifier régulièrement les mises à jour disponibles pour les logiciels installés sur l'équipement et de les installer dès qu'elles sont disponibles.
+            </paragraphe>
+            <sous-titre>La sauvegarde des données</sous-titre>
+            <paragraphe>
+                La sauvegarde régulière des données est essentielle pour éviter la perte de données en cas de panne ou de défaillance de l'équipement informatique. Il est recommandé de sauvegarder les données sur un support externe tel qu'un disque dur externe ou un service de stockage en ligne.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Causes du dysfonctionnement et mesures de protection du matériel informatique</titre>
+        <contenu>
+            <paragraphe>
+                Le matériel informatique peut dysfonctionner pour différentes raisons. Certaines des causes les plus courantes sont les suivantes :
+            </paragraphe>
+            <liste>
+                <paragraphe>La surchauffe</paragraphe>
+                <paragraphe>Les virus et les logiciels malveillants</paragraphe>
+                <paragraphe>Les pannes matérielles</paragraphe>
+                <paragraphe>Les erreurs de configuration</paragraphe>
+                <paragraphe>Les perturbations électriques</paragraphe>
+            </liste>
+            <paragraphe>
+                Pour protéger le matériel informatique contre ces différents risques, il est recommandé de prendre les mesures suivantes :
+            </paragraphe>
+            <sous-titre>La ventilation</sous-titre>
+            <paragraphe>
+                La ventilation de l'équipement informatique est essentielle pour éviter les problèmes de surchauffe. Il est recommandé de placer l'équipement dans un endroit bien ventilé et de vérifier régulièrement le bon fonctionnement des ventilateurs internes.
+            </paragraphe>
+            <sous-titre>L'installation d'un antivirus</sous-titre>
+            <paragraphe>
+                L'installation d'un antivirus et d'un logiciel anti-malware permet de protéger l'équipement informatique contre les virus et les logiciels malveillants. Il est recommandé de maintenir ces logiciels à jour et de les configurer pour qu'ils effectuent des analyses régulières du système.
+            </paragraphe>
+            <sous-titre>Le remplacement des composants défectueux</sous-titre>
+            <paragraphe>
+                Lorsqu'un composant informatique est défectueux, il doit être remplacé pour assurer le bon fonctionnement de l'équipement. Il est important de choisir des composants compatibles avec l'équipement existant.
+            </paragraphe>
+            <sous-titre>La configuration correcte du système</sous-titre>
+            <paragraphe>
+                La configuration correcte du système est essentielle pour éviter les erreurs de configuration qui peuvent entraîner des dysfonctionnements. Il est recommandé de suivre les instructions du fabricant et de ne pas modifier les paramètres du système à moins d'être sûr de savoir ce que l'on fait.
+            </paragraphe>
+            <sous-titre>La protection contre les perturbations électriques</sous-titre>
+            <paragraphe>
+                Les perturbations électriques telles que les surtensions et les coupures de courant peuvent endommager le matériel informatique. Il est recommandé d'utiliser un onduleur pour protéger l'équipement contre ces risques.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Causes du dysfonctionnement et mesures de protection du logiciel informatique</titre>
+        <contenu>
+            <paragraphe>
+                Les logiciels informatiques peuvent également dysfonctionner pour différentes raisons. Certaines des causes les plus courantes sont les suivantes :
+            </paragraphe>
+            <liste>
+                <paragraphe>Les erreurs de programmation</paragraphe>
+                <paragraphe>Les conflits de logiciels</paragraphe>
+                <paragraphe>Les virus et les logiciels malveillants</paragraphe>
+                <paragraphe>Les mises à jour incorrectes</paragraphe>
+                <paragraphe>Les erreurs de configuration</paragraphe>
+            </liste>
+            <paragraphe>
+                Pour protéger le logiciel informatique contre ces différents risques, il est recommandé de prendre les mesures suivantes :
+            </paragraphe>
+            <sous-titre>La mise à jour régulière des logiciels</sous-titre>
+            <paragraphe>
+                Les mises à jour régulières des logiciels permettent de corriger les erreurs de programmation et les failles de sécurité. Il est recommandé de maintenir les logiciels à jour et de les configurer pour qu'ils effectuent des mises à jour automatiques.
+            </paragraphe>
+            <sous-titre>L'installation d'un antivirus</sous-titre>
+            <paragraphe>
+                L'installation d'un antivirus et d'un logiciel anti-malware permet de protéger le logiciel informatique contre les virus et les logiciels malveillants. Il est recommandé de maintenir ces logiciels à jour et de les configurer pour qu'ils effectuent des analyses régulières du système.
+            </paragraphe>
+            <sous-titre>La gestion des conflits de logiciels</sous-titre>
+            <paragraphe>
+                Les conflits de logiciels peuvent entraîner des dysfonctionnements du système. Il est recommandé de vérifier la compatibilité des logiciels avant de les installer et de désinstaller les logiciels qui créent des conflits.
+            </paragraphe>
+            <sous-titre>La configuration correcte du système</sous-titre>
+            <paragraphe>
+                La configuration correcte du système est essentielle pour éviter les erreurs de configuration qui peuvent entraîner des dysfonctionnements. Il est recommandé de suivre les instructions du fabricant et de ne pas modifier les paramètres du système à moins d'être sûr de savoir ce que l'on fait.
+            </paragraphe>
+            <sous-titre>La sauvegarde régulière des données</sous-titre>
+            <paragraphe>
+                La sauvegarde régulière des données permet de protéger le logiciel contre les pertes de données en cas de dysfonctionnement du système. Il est recommandé de sauvegarder les données sur une base régulière et de stocker les sauvegardes dans un endroit sûr.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Optimisation d’un ordinateur</titre>
+        <contenu>
+            <paragraphe>
+                L'optimisation d'un ordinateur est importante pour garantir des performances optimales et une utilisation efficace des ressources informatiques. Voici quelques astuces pour optimiser votre ordinateur :
+            </paragraphe>
+            <sous-titre>Supprimer les fichiers inutiles</sous-titre>
+            <paragraphe>
+                Les fichiers inutiles tels que les fichiers temporaires, les fichiers de cache et les fichiers de journaux peuvent ralentir votre ordinateur. Il est recommandé de les supprimer régulièrement à l'aide d'un nettoyeur de disque ou d'un outil de nettoyage de système.
+            </paragraphe>
+            <sous-titre>Désinstaller les programmes inutilisés</sous-titre>
+            <paragraphe>
+                Les programmes inutilisés occupent de l'espace sur votre disque dur et peuvent ralentir votre ordinateur. Il est recommandé de les désinstaller régulièrement pour libérer de l'espace et améliorer les performances de votre système.
+            </paragraphe>
+            <sous-titre>Désactiver les programmes au démarrage</sous-titre>
+            <paragraphe>
+                Les programmes qui se lancent automatiquement au démarrage peuvent ralentir le démarrage de votre ordinateur. Il est recommandé de désactiver les programmes inutiles pour accélérer le démarrage de votre système.
+            </paragraphe>
+            <sous-titre>Optimiser les paramètres du système</sous-titre>
+            <paragraphe>
+                Les paramètres du système tels que la résolution d'écran et les paramètres de mise en veille peuvent avoir un impact sur les performances de votre ordinateur. Il est recommandé de les ajuster en fonction de vos besoins pour optimiser les performances de votre système.
+            </paragraphe>
+            <sous-titre>Mettre à jour les pilotes et les logiciels</sous-titre>
+            <paragraphe>
+                Les pilotes et les logiciels obsolètes peuvent ralentir votre ordinateur. Il est recommandé de maintenir les pilotes et les logiciels à jour pour améliorer les performances de votre système et corriger les bugs et les failles de sécurité.
+            </paragraphe>
+            <sous-titre>Installer un logiciel d'optimisation</sous-titre>
+            <paragraphe>
+                Les logiciels d'optimisation peuvent vous aider à nettoyer votre ordinateur, à réparer les erreurs et à améliorer les performances. Il est recommandé de rechercher un logiciel d'optimisation de confiance et de l'utiliser régulièrement pour maintenir votre système en bon état.
+            </paragraphe>
+            <paragraphe>
+                En suivant ces astuces d'optimisation, vous pouvez améliorer les performances de votre ordinateur et profiter d'une expérience informatique plus efficace et plus agréable.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+
+    <lecon>
+        <titre>Généralités sur les tableurs</titre>
+        <introduction>
+            <paragraphe>Un tableur est un logiciel permettant de manipuler des données sous forme de tableaux. Il est particulièrement utile pour les calculs et les analyses numériques.</paragraphe>
+            <paragraphe>Les tableurs sont largement utilisés dans les entreprises et les administrations pour des tâches telles que la gestion de budget, la tenue de stocks, la facturation, etc.</paragraphe>
+        </introduction>
+        <contenu>
+            <sous-titre>Les fonctionnalités de base d'un tableur</sous-titre>
+            <paragraphe>Les tableurs offrent des fonctionnalités de base telles que la création de tableaux, la saisie de données, les opérations mathématiques, la création de graphiques, etc.</paragraphe>
+            <sous-titre>Les formules et les fonctions</sous-titre>
+            <paragraphe>Les formules et les fonctions sont des outils puissants pour automatiser les calculs dans un tableur. Ils permettent de réaliser des calculs complexes en quelques clics.</paragraphe>
+            <sous-titre>Les graphiques et les tableaux croisés dynamiques</sous-titre>
+            <paragraphe>Les graphiques et les tableaux croisés dynamiques sont des outils très utiles pour visualiser et analyser des données dans un tableur. Ils permettent de synthétiser des informations et de faciliter la prise de décision.</paragraphe>
+        </contenu>
+        <conclusion>
+            <paragraphe>Les tableurs sont des outils incontournables pour la gestion de données numériques. Ils offrent des fonctionnalités puissantes pour manipuler et analyser des données de manière efficace.</paragraphe>
+        </conclusion>
+    </lecon>
+
+    <lecon>
+        <titre>La saisie et recopie d’une formule</titre>
+            <paragraphe>Les formules sont des éléments clés dans l'utilisation d'un tableur. Elles permettent de réaliser des calculs et des traitements de données automatiquement.</paragraphe>
+            <paragraphe>Il est important de savoir comment saisir et recopier une formule pour pouvoir travailler efficacement avec un tableur.</paragraphe>
+        <contenu>
+            <sous-titre>La saisie d'une formule</sous-titre>
+            <paragraphe>Pour saisir une formule dans un tableur, il faut commencer par sélectionner la cellule où l'on veut afficher le résultat du calcul.</paragraphe>
+            <paragraphe>Ensuite, on saisit le signe égal (=) suivi de la formule à calculer. Les opérateurs mathématiques courants sont disponibles dans la barre d'outils du tableur.</paragraphe>
+            <sous-titre>La recopie d'une formule</sous-titre>
+            <paragraphe>La recopie d'une formule est une technique qui permet de reproduire une même formule dans plusieurs cellules en un seul geste.</paragraphe>
+            <paragraphe>Pour recopier une formule, il suffit de sélectionner la cellule contenant la formule, de la copier et de la coller dans les autres cellules concernées. Le tableur ajustera automatiquement les références de cellules dans la formule pour chaque nouvelle cellule.</paragraphe>
+        </contenu>
+        <conclusion>
+            <paragraphe>La saisie et la recopie de formules sont des techniques de base pour utiliser efficacement un tableur. Il est important de maîtriser ces techniques pour pouvoir réaliser des calculs et des traitements de données de manière rapide et efficace.</paragraphe>
+        </conclusion>
+    </lecon>
+
+    <lecon>
+        <titre>Mise en forme conditionnelle</titre>
+        <image>lien_vers_image</image>
+
+            <paragraphe>
+                La mise en forme conditionnelle est une fonctionnalité très utile des tableurs qui permet de mettre en évidence certaines données en fonction de critères prédéfinis. Elle permet de donner une représentation visuelle des données pour faciliter leur analyse.
+            </paragraphe>
+
+            <sous-titre>Les différents types de mise en forme conditionnelle</sous-titre>
+            <paragraphe>
+                Il existe plusieurs types de mise en forme conditionnelle :
+            </paragraphe>
+            <paragraphe>La mise en surbrillance des cellules</paragraphe>
+            <paragraphe>La mise en forme de la police</paragraphe>
+            <paragraphe>La mise en forme des bordures</paragraphe>
+            <paragraphe>La mise en forme des icônes</paragraphe>
+            <paragraphe>La mise en forme des barres de données</paragraphe>
+
+
+            <sous-titre>La mise en surbrillance des cellules</sous-titre>
+            <paragraphe>
+                La mise en surbrillance des cellules est le type le plus courant de mise en forme conditionnelle. Elle permet de mettre en évidence certaines données en les surlignant avec une couleur spécifique. Cette mise en forme est souvent utilisée pour identifier rapidement les données importantes ou les écarts significatifs.
+            </paragraphe>
+            <sous-titre>La mise en forme des icônes</sous-titre>
+            <paragraphe>
+                La mise en forme des icônes permet d'ajouter des icônes aux cellules en fonction de leur contenu. Par exemple, on peut utiliser cette mise en forme pour ajouter une icône en forme de flèche pour indiquer si les ventes ont augmenté ou diminué par rapport à la période précédente.
+            </paragraphe>
+            <sous-titre>La mise en forme des barres de données</sous-titre>
+            <paragraphe>
+                La mise en forme des barres de données permet de représenter graphiquement les données dans une cellule à l'aide d'une barre de progression. Cette mise en forme est souvent utilisée pour visualiser rapidement l'état d'avancement d'une tâche.
+            </paragraphe>
+            <sous-titre>La création d'une mise en forme conditionnelle</sous-titre>
+            <paragraphe>
+                Pour créer une mise en forme conditionnelle, il faut sélectionner les cellules concernées, puis choisir le type de mise en forme souhaité dans le menu "Mise en forme conditionnelle". On peut ensuite définir les critères de mise en forme en fonction de la valeur des données, de la date, de la longueur du texte, etc.
+            </paragraphe>
+            <sous-titre>Conclusion</sous-titre>
+            <paragraphe>
+                La mise en forme conditionnelle est une fonctionnalité très utile des tableurs qui permet de donner une représentation visuelle des données pour faciliter leur analyse. Elle permet de mettre en évidence certaines données en fonction de critères prédéfinis, ce qui facilite leur identification et leur compréhension.
+            </paragraphe>
+
+    </lecon>
+
+    <lecon>
+        <sujet>
+            <titre>Les fonctions de texte, date et heure</titre>
+        </sujet>
+        <contenu>
+            <paragraphe>
+                Les fonctions de texte, date et heure sont des outils puissants dans les tableurs pour manipuler et analyser les données.
+                Elles permettent de réaliser des opérations sur des chaînes de caractères, des dates et des heures,
+                telles que la concaténation de textes, la conversion de formats de date et heure ou encore le calcul de la différence entre deux dates.
+            </paragraphe>
+            <sous-titre>Les fonctions de texte</sous-titre>
+            <paragraphe>
+                Les fonctions de texte permettent de manipuler des chaînes de caractères. Voici quelques exemples de fonctions :
+
+                    CONCATENER: permet de concaténer plusieurs chaînes de caractères en une seule.
+                   STXT : permet d'extraire une partie d'une chaîne de caractères.
+                   RECHERCHE: permet de rechercher une chaîne de caractères dans une autre.
+
+            </paragraphe>
+
+            <sous-titre>Les fonctions de date et heure</sous-titre>
+            <paragraphe>
+                Les fonctions de date et heure permettent de manipuler les dates et heures. Voici quelques exemples de fonctions :
+            </paragraphe>
+            <paragraphe>JOURSEM: permet de renvoyer le jour de la semaine correspondant à une date.</paragraphe>
+            <paragraphe>MOIS : permet de renvoyer le mois correspondant à une date.</paragraphe>
+            <paragraphe>DATEDIF: permet de calculer la différence entre deux dates.</paragraphe>
+
+            <sous-titre>Exemple d'utilisation des fonctions</sous-titre>
+            <paragraphe>
+                Voici un exemple d'utilisation de la fonction CONCATENER pour créer une adresse mail à partir du nom et du prénom :
+            </paragraphe>
+            <paragraphe>=CONCATENER(A2,".",B2,"@monentreprise.com")</paragraphe>
+            <paragraphe> Cette formule permet de créer une adresse mail avec le nom et le prénom contenus dans les cellules A2 et B2.
+            </paragraphe>
+
+            <sous-titre>Conclusion</sous-titre>
+            <paragraphe>
+                Les fonctions de texte, date et heure sont des outils essentiels dans les tableurs pour manipuler et analyser les données.
+                Elles permettent de réaliser des opérations avancées sur des chaînes de caractères, des dates et des heures,
+                et sont particulièrement utiles pour des tâches de traitement de données.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+
+    <lecon>
+        <titre>Les fonctions mathématiques</titre>
+        <paragraphe>
+            Les fonctions mathématiques sont des outils indispensables pour effectuer des calculs complexes dans les tableurs. Elles permettent de réaliser des opérations mathématiques avancées sur des données numériques.
+        </paragraphe>
+
+        <sous-titre>Les fonctions arithmétiques</sous-titre>
+        <paragraphe>
+            Les fonctions arithmétiques permettent d'effectuer des opérations de base telles que l'addition, la soustraction, la multiplication et la division. Elles peuvent également être utilisées pour arrondir des nombres, calculer des moyennes ou trouver des valeurs minimales et maximales.
+        </paragraphe>
+
+        <sous-titre>Les fonctions statistiques</sous-titre>
+        <paragraphe>
+            Les fonctions statistiques permettent d'effectuer des analyses de données telles que la moyenne, l'écart-type, la variance ou encore la corrélation. Elles sont utiles pour synthétiser des données complexes et en extraire des informations pertinentes.
+        </paragraphe>
+
+        <sous-titre>Les fonctions trigonométriques</sous-titre>
+        <paragraphe>
+            Les fonctions trigonométriques permettent de calculer des angles, des cosinus, des sinus et des tangentes. Elles sont souvent utilisées dans les domaines scientifiques et techniques.
+        </paragraphe>
+
+        <sous-titre>Les fonctions logarithmiques</sous-titre>
+        <paragraphe>
+            Les fonctions logarithmiques permettent de calculer des logarithmes de nombres. Elles peuvent être utilisées pour des calculs liés à la croissance exponentielle, par exemple dans les domaines de la finance ou de la biologie.
+        </paragraphe>
+
+        <sous-titre>Conclusion</sous-titre>
+        <paragraphe>
+            Les fonctions mathématiques sont des outils essentiels pour effectuer des calculs complexes dans les tableurs. Il est important de bien comprendre leur fonctionnement et leur utilisation pour exploiter pleinement leur potentiel.
+        </paragraphe>
+    </lecon>
+
+    <lecon>
+        <sujet>
+            <titre>Représentation de Graphiques dans un Tableur</titre>
+            <niveau>Intermédiaire</niveau>
+        </sujet>
+        <contenu>
+            <introduction>
+                <paragraphe>
+                    Un graphique est un moyen visuel de représenter des données sous forme de tableaux. Les tableurs comme Microsoft Excel offrent une variété de types de graphiques pour représenter les données de différentes manières. Dans cette leçon, nous allons examiner les différentes options pour créer des graphiques dans Excel.
+                </paragraphe>
+            </introduction>
+            <sous-titre>Création de graphiques</sous-titre>
+            <paragraphe>
+                Pour créer un graphique dans Excel, sélectionnez d'abord les données à inclure dans le graphique. Ensuite, cliquez sur l'onglet « Insertion » dans le ruban Excel, puis sélectionnez le type de graphique souhaité. Il y a plusieurs types de graphiques disponibles, tels que les graphiques à colonnes, les graphiques à lignes, les graphiques à secteurs, les graphiques à barres et les graphiques circulaires.
+            </paragraphe>
+            <sous-titre>Modification de graphiques</sous-titre>
+            <paragraphe>
+                Une fois que vous avez créé un graphique, vous pouvez le personnaliser en fonction de vos besoins. Vous pouvez modifier la taille, la couleur et la police de caractères du texte du graphique. Vous pouvez également ajouter des éléments tels que des titres, des étiquettes d'axe, des légendes et des grilles. Enfin, vous pouvez modifier les données source et les options de mise en page pour afficher les données de différentes manières.
+            </paragraphe>
+            <sous-titre>Choix de graphiques</sous-titre>
+            <paragraphe>
+                Le choix du type de graphique dépend du type de données que vous souhaitez représenter. Les graphiques à colonnes conviennent bien pour les comparaisons entre différentes catégories, tandis que les graphiques à lignes sont utiles pour suivre les tendances au fil du temps. Les graphiques circulaires conviennent pour représenter des pourcentages, tandis que les graphiques à barres conviennent pour comparer des valeurs entre différentes catégories.
+            </paragraphe>
+            <sous-titre>Conclusion</sous-titre>
+            <paragraphe>
+                Les graphiques sont un moyen puissant de représenter des données dans un tableur. En utilisant les bonnes options de graphique et de personnalisation, vous pouvez présenter des données de manière claire et concise. Avec un peu de pratique, vous serez en mesure de créer des graphiques professionnels pour vos présentations et rapports.
+            </paragraphe>
+        </contenu>
+    </lecon>
+
+    <lecon>
+        <titre>Généralités sur les systèmes de numération</titre>
+
+        <sous-titre>Système décimal</sous-titre>
+        <paragraphe>
+            Le système décimal est le système de numération utilisé couramment par les humains. Il utilise dix chiffres de 0 à 9 pour représenter les nombres. Chaque position dans un nombre décimal correspond à une puissance de 10. Par exemple, le nombre 347 peut être décomposé en 3*10^2 + 4*10^1 + 7*10^0.
+        </paragraphe>
+
+        <sous-titre>Système binaire</sous-titre>
+        <paragraphe>
+            Le système binaire est utilisé en électronique et en informatique pour représenter les données. Il utilise deux chiffres, 0 et 1, pour représenter les nombres. Chaque position dans un nombre binaire correspond à une puissance de 2. Par exemple, le nombre binaire 1101 correspond au nombre décimal 13.
+        </paragraphe>
+
+        <sous-titre>Système octal et hexadécimal</sous-titre>
+        <paragraphe>
+            Les systèmes octal et hexadécimal sont des systèmes de numération utilisés en informatique. Le système octal utilise 8 chiffres de 0 à 7, tandis que le système hexadécimal utilise 16 chiffres de 0 à 9 et de A à F. Chaque position dans un nombre octal ou hexadécimal correspond à une puissance de 8 ou de 16, respectivement.
+        </paragraphe>
+
+        <sous-titre>Conversion entre systèmes de numération</sous-titre>
+        <paragraphe>
+            Il est possible de convertir un nombre d'un système de numération à un autre. Par exemple, pour convertir un nombre binaire en nombre décimal, il suffit de multiplier chaque chiffre par la puissance de 2 correspondante et d'additionner les résultats. Pour convertir un nombre décimal en nombre binaire, il faut diviser le nombre par 2 et prendre le reste à chaque étape jusqu'à obtenir 0.
+        </paragraphe>
+    </lecon>
+
+
+<!--    ...................................................................-->
+
+
+    <lecon>
+
+    </lecon>
+
+
+<!--    .............................................................-->
+
+
+    <lecon>
+        <titre>Conversion d'un nombre d'une base à une autre</titre>
+
+        <paragraphe>Les ordinateurs utilisent des nombres binaires, c'est-à-dire des nombres qui ne contiennent que des 0 et des 1. Cependant, dans notre vie quotidienne, nous utilisons le système décimal, qui utilise les chiffres de 0 à 9. Pour pouvoir utiliser les nombres que nous connaissons sur un ordinateur, nous devons les convertir en nombres binaires. Cette conversion est également utile lorsque nous avons besoin de convertir des nombres d'une base à une autre, par exemple pour les besoins d'un calcul mathématique.</paragraphe>
+
+        <sous-titre>Conversion d'un nombre décimal en binaire</sous-titre>
+        <paragraphe>Pour convertir un nombre décimal en binaire, nous pouvons utiliser la méthode de la division. Nous divisons le nombre décimal par 2 et nous écrivons le reste à droite. Nous divisons ensuite le quotient obtenu par 2 et nous écrivons le reste à droite, et ainsi de suite jusqu'à ce que le quotient soit égal à 0.</paragraphe>
+        <paragraphe>Par exemple, pour convertir le nombre décimal 25 en binaire :</paragraphe>
+        <paragraphe>25 ÷ 2 = 12 reste 1</paragraphe>
+        <paragraphe>12 ÷ 2 = 6 reste 0</paragraphe>
+        <paragraphe>6 ÷ 2 = 3 reste 0</paragraphe>
+        <paragraphe>3 ÷ 2 = 1 reste 1</paragraphe>
+        <paragraphe>1 ÷ 2 = 0 reste 1</paragraphe>
+        <paragraphe>Le nombre binaire correspondant est donc 11001.</paragraphe>
+
+        <sous-titre>Conversion d'un nombre binaire en décimal</sous-titre>
+        <paragraphe>Pour convertir un nombre binaire en décimal, nous pouvons utiliser la méthode de la somme. Nous écrivons le nombre binaire en partant du chiffre le plus à gauche, et nous multiplions chaque chiffre par une puissance de 2. La première puissance de 2 est 2^0, la deuxième est 2^1, la troisième est 2^2, et ainsi de suite. Nous ajoutons ensuite tous les résultats obtenus pour obtenir le nombre décimal correspondant.</paragraphe>
+        <paragraphe>Par exemple, pour convertir le nombre binaire 11001 en décimal :</paragraphe>
+        <paragraphe>1 x 2^4 + 1 x 2^3 + 0 x 2^2 + 0 x 2^1 + 1 x 2^0 = 16 + 8 + 0 + 0 + 1 = 25</paragraphe>
+        <paragraphe>Le nombre décimal correspondant est donc 25.</paragraphe>
+    </lecon>
+
+    <lecon>
+        <sujet>
+            <titre>Opérations Arithmétiques dans les bases usuelles 2, 8 et 16</titre>
+        </sujet>
+        <contenu>
+            <section>
+                <paragraphe>Les nombres binaires sont composés uniquement de 0 et de 1. Les opérations arithmétiques sur ces nombres se font de la même manière que pour les nombres décimaux.</paragraphe>
+                <sous-titre>Addition binaire</sous-titre>
+                <paragraphe>Pour additionner deux nombres binaires, on utilise une table d'addition binaire qui récapitule toutes les combinaisons possibles :</paragraphe>
+                <image url="https://i.imgur.com/UvI05ps.png" alt="Table d'addition binaire"/>
+                <paragraphe>Il suffit alors d'additionner les chiffres binaires colonne par colonne en commençant par les unités, et de retenir une éventuelle retenue pour la colonne suivante. Par exemple :</paragraphe>
+                <paragraphe>
+                    1011 (11 en décimal)
+                    + 1101 (13 en décimal)
+                    -------
+                </paragraphe>
+                <paragraphe>On commence par additionner les unités : 1+1 = 0 (on retient une retenue). On passe ensuite aux dizaines : 1+0+1 = 0 (on retient une retenue). Puis aux centaines : 0+1 = 1. Enfin, aux milliers : 1.</paragraphe>
+                <paragraphe>
+                    1011
+                    + 1101
+                    ------- >
+                    11000 (24 en décimal)
+                </paragraphe>
+
+                <sous-titre>Soustraction binaire</sous-titre>
+                <paragraphe>La soustraction binaire se fait de la même manière que la soustraction décimale. Pour soustraire un nombre binaire B de A, on ajoute à B le complément à deux de A. Le complément à deux d'un nombre binaire est obtenu en inversant tous les bits du nombre, puis en ajoutant 1.</paragraphe>
+                <paragraphe>Par exemple :</paragraphe>
+                <paragraphe>
+                    1011 (11 en décimal)
+                    - 1101 (13 en décimal)
+                    -------
+                    1110 (2 en complément à deux, -2 en décimal)
+                </paragraphe>
+
+                <sous-titre>Multiplication binaire</sous-titre>
+                <paragraphe>La multiplication binaire se fait de la même manière que la multiplication décimale. On multiplie chaque chiffre binaire du multiplicande par chaque chiffre binaire du multiplicateur, en prenant soin de décaler les produits obtenus en fonction de la position des chiffres. On additionne ensuite tous les produits obtenus.</paragraphe>
+            </section>
+        </contenu>
+
+    </lecon>
+
+    <lecon>
+        <titre>Généralités sur la codification de l’information</titre>
+
+        <image> (image pertinente) </image>
+
+        <paragraphe>La codification de l'information est le processus de conversion des données d'une forme à une autre. Il s'agit d'un élément clé dans le stockage et la transmission des données informatiques. La codification de l'information permet de représenter les données sous une forme qui peut être manipulée de manière efficace par les ordinateurs et d'autres dispositifs électroniques. </paragraphe>
+
+        <sous-titre>Les types de codage de l'information</sous-titre>
+
+        <paragraphe>Il existe différents types de codage de l'information, notamment le codage binaire, le codage décimal, le codage de caractères et le codage de couleurs. Le codage binaire est le plus courant et utilise une combinaison de zéros et de uns pour représenter les données. Le codage décimal utilise une combinaison de chiffres de 0 à 9 pour représenter les données. Le codage de caractères est utilisé pour représenter les caractères alphanumériques, tandis que le codage de couleurs est utilisé pour représenter les couleurs dans les images. </paragraphe>
+
+        <sous-titre>Les systèmes de codage de l'information</sous-titre>
+
+        <paragraphe>Les systèmes de codage de l'information déterminent comment les données sont stockées et transmises. Les systèmes de codage de l'information les plus couramment utilisés sont le code ASCII, le code Unicode et le code binaire. Le code ASCII est utilisé pour représenter les caractères alphanumériques dans les ordinateurs, tandis que le code Unicode est utilisé pour représenter les caractères de toutes les langues du monde. Le code binaire est utilisé pour représenter toutes les autres formes de données, y compris les images et les sons.</paragraphe>
+
+        <sous-titre>Les avantages de la codification de l'information</sous-titre>
+
+        <paragraphe>La codification de l'information présente plusieurs avantages. Elle permet une transmission de données plus rapide et plus efficace, ainsi qu'un stockage de données plus compact. La codification de l'information facilite également le traitement et l'analyse des données, ce qui est essentiel dans de nombreux domaines, notamment la science, l'ingénierie et les finances.</paragraphe>
+
+        <sous-titre>Les défis de la codification de l'information</sous-titre>
+
+        <paragraphe>Cependant, la codification de l'information présente également des défis. L'un des défis les plus courants est la compatibilité entre différents systèmes de codage de l'information. Les différences entre les systèmes de codage de l'information peuvent entraîner des erreurs lors de la transmission ou du stockage des données, ce qui peut entraîner des pertes de données ou des erreurs de traitement. De plus, la codification de l'information peut également poser des problèmes de sécurité, car les données peuvent être interceptées et décodées par des personnes non autorisées.</paragraphe>
+    </lecon>
+
+    <lecon>
+        <titre>Le Codage des expressions en ASCII</titre>
+
+        <paragraphe>
+            ASCII (American Standard Code for Information Interchange) est un système de codage qui permet de représenter les caractères de la langue anglaise ainsi que certains caractères spéciaux tels que les symboles mathématiques et les signes de ponctuation. Il est largement utilisé dans les ordinateurs et autres dispositifs électroniques pour la communication et le stockage de l'information.
+        </paragraphe>
+
+        <sous-titre>Principes du codage ASCII</sous-titre>
+        <paragraphe>
+            Dans le codage ASCII, chaque caractère est représenté par un code unique de 7 bits, ce qui permet de représenter un total de 128 caractères différents. Les codes ASCII sont souvent représentés en hexadécimal, ce qui permet de les écrire plus facilement et de les stocker plus efficacement dans la mémoire de l'ordinateur.
+        </paragraphe>
+
+        <sous-titre>Exemples de codage ASCII</sous-titre>
+        <paragraphe>
+            Voici quelques exemples de codage ASCII pour certains caractères courants :
+
+        </paragraphe>
+        <paragraphe>Le caractère "A" est codé en ASCII comme 0x41</paragraphe>
+        <paragraphe>Le caractère "B" est codé en ASCII comme 0x42</paragraphe>
+        <paragraphe>Le caractère "a" est codé en ASCII comme 0x61</paragraphe>
+        <paragraphe>Le caractère "b" est codé en ASCII comme 0x62</paragraphe>
+        <paragraphe>Le caractère "!" est codé en ASCII comme 0x21</paragraphe>
+        <paragraphe>Le caractère "&amp;" est codé en ASCII comme 0x26</paragraphe>
+
+
+        <sous-titre>Limitations du codage ASCII</sous-titre>
+        <paragraphe>
+            Le codage ASCII est limité à la représentation de caractères de la langue anglaise et ne prend pas en charge les caractères des autres langues telles que les caractères accentués du français ou les caractères non latins tels que les caractères chinois. Pour résoudre ce problème, des systèmes de codage plus complets tels que Unicode ont été développés.
+        </paragraphe>
+
+        <sous-titre>Conclusion</sous-titre>
+        <paragraphe>
+            Le codage ASCII est un système de codage simple et efficace pour la représentation de caractères de la langue anglaise et de certains caractères spéciaux. Bien qu'il présente des limitations pour la représentation de caractères d'autres langues, il reste largement utilisé dans les ordinateurs et autres dispositifs électroniques pour la communication et le stockage de l'information.
+        </paragraphe>
+    </lecon>
+
+    <lecon>
+        <titre>Les unités de mesure de capacités</titre>
+
+        <paragraphe>Les unités de mesure de capacités sont utilisées pour exprimer la quantité de données stockées sur un périphérique de stockage tel qu'un disque dur, une clé USB ou une carte mémoire. Voici les principales unités de mesure de capacités :</paragraphe>
+
+        <sous-titre>Le bit (b)</sous-titre>
+        <image url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bit_Arrows.svg/1200px-Bit_Arrows.svg.png" />
+
+        <paragraphe>Le bit (b) est la plus petite unité de mesure de capacité. Il ne peut contenir qu'une seule valeur, soit 0, soit 1. Les bits sont généralement regroupés en octets pour former des caractères et des données informatiques.</paragraphe>
+
+        <sous-titre>L'octet (o ou B)</sous-titre>
+        <image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Octet_Arrows.svg/1200px-Octet_Arrows.svg.png" />
+
+        <paragraphe>L'octet (o ou B) est une unité de mesure de capacité équivalente à 8 bits. C'est l'unité de mesure de base pour exprimer la taille des fichiers et des données informatiques. Par exemple, un fichier de 2 000 octets contient 16 000 bits.</paragraphe>
+
+        <sous-titre>Le kilooctet (ko ou kB)</sous-titre>
+        <image url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kilobyte_Arrows.svg/1200px-Kilobyte_Arrows.svg.png" />
+
+        <paragraphe>Le kilooctet (ko ou kB) est une unité de mesure de capacité équivalente à 1 000 octets. Cette unité est souvent utilisée pour exprimer la taille des fichiers, des images et des vidéos. Par exemple, un fichier de 2 ko contient 2 000 octets.</paragraphe>
+
+        <sous-titre>Le mégaoctet (Mo ou MB)</sous-titre>
+        <image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Megabyte_Arrows.svg/1200px-Megabyte_Arrows.svg.png" />
+
+        <paragraphe>Le mégaoctet (Mo ou MB) est une unité de mesure de capacité équivalente à 1 000 kilooctets ou 1 000 000 d'octets. Cette unité est souvent utilisée pour exprimer la capacité de stockage des disques durs, des clés USB et des cartes mémoire. Par exemple, un disque dur de 500 Mo peut stocker environ 500 millions d'octets.</paragraphe>
+
+    </lecon>
+
+    <lecon>
+        <titre>Les unités de mesures de performance de quelques composants matériels</titre>
+
+        <paragraphe>Les performances des composants matériels d'un ordinateur peuvent être mesurées à l'aide de différentes unités de mesure. Voici quelques-unes des unités de mesure les plus couramment utilisées :</paragraphe>
+
+        <sous-titre>Le processeur (CPU)</sous-titre>
+        <paragraphe>La fréquence d'horloge (mesurée en GHz) est la principale unité de mesure de la performance du processeur. Plus la fréquence est élevée, plus le processeur est rapide.</paragraphe>
+
+        <sous-titre>La mémoire vive (RAM)</sous-titre>
+        <paragraphe>La capacité de la mémoire vive est mesurée en gigaoctets (Go). Plus la capacité est élevée, plus l'ordinateur peut traiter de données en même temps sans ralentir.</paragraphe>
+
+        <sous-titre>Le disque dur</sous-titre>
+        <paragraphe>La capacité de stockage du disque dur est mesurée en gigaoctets (Go) ou téraoctets (To). Plus la capacité est élevée, plus l'ordinateur peut stocker de données.</paragraphe>
+
+        <sous-titre>La carte graphique</sous-titre>
+        <paragraphe>La puissance de traitement graphique de la carte graphique est mesurée en gigaflops (GFLOPS) ou en téraflops (TFLOPS). Plus la puissance est élevée, plus la carte graphique est performante pour les tâches graphiques telles que les jeux vidéo ou la modélisation 3D.</paragraphe>
+
+        <paragraphe>Ces unités de mesure sont des indicateurs de performance utiles pour comparer différents composants matériels et choisir celui qui convient le mieux à ses besoins.</paragraphe>
+    </lecon>
+    <!--    ...........................................................................................-->
+    <lecon>
+        <titre>La notion d’algorithme</titre>
+        <image>lien vers l'image</image>
+
+        <paragraphe>Un algorithme est une suite finie et non ambiguë d’opérations ou d’instructions permettant de résoudre un problème ou de réaliser une tâche donnée. C’est une méthode générale de résolution de problèmes qui s’applique à différents domaines tels que les mathématiques, l’informatique, la physique, etc. Les algorithmes peuvent être exprimés en langage naturel, en pseudo-code ou en langage de programmation.</paragraphe>
+
+        <sous-titre>Caractéristiques d’un algorithme</sous-titre>
+        <paragraphe>Pour qu’un ensemble d’instructions soit considéré comme un algorithme, il doit respecter certaines caractéristiques : </paragraphe>
+
+
+        <paragraphe>Finitude :un algorithme doit comporter un nombre fini d’étapes.</paragraphe>
+        <paragraphe>éterminisme : chaque étape de l’algorithme doit être précise et déterminée.</paragraphe>
+        <paragraphe>Clarté : les instructions de l’algorithme doivent être claires et précises pour éviter toute ambiguïté.</paragraphe>
+        <paragraphe>Universalité : un algorithme doit pouvoir s’appliquer à différentes situations et être utilisé par différents utilisateurs.</paragraphe>
+
+        <sous-titre>Exemple d’algorithme</sous-titre>
+        <paragraphe>Voici un exemple d’algorithme simple pour calculer la somme de deux nombres :</paragraphe>
+
+        <paragraphe>Début</paragraphe>
+        <paragraphe>Saisir le premier nombre</paragraphe>
+        <paragraphe>Saisir le deuxième nombre</paragraphe>
+        <paragraphe>Calculer la somme des deux nombres</paragraphe>
+        <paragraphe>Afficher le résultat</paragraphe>
+        <paragraphe>Fin</paragraphe>
+
+        <sous-titre>Conclusion</sous-titre>
+        <paragraphe>Les algorithmes sont omniprésents dans notre vie quotidienne et jouent un rôle clé dans le développement de la technologie. La maîtrise de la conception d’algorithmes est donc essentielle pour résoudre des problèmes, réaliser des tâches et créer des logiciels performants.</paragraphe>
+    </lecon>
+    <!--    .............................................................................................-->
+
+    <Lecon>
+        <Titre>Les objets et les instructions algorithmiques</Titre>
+        <Introduction>
+            <Paragraphe>
+                En programmation, un objet est une entité qui regroupe des données et des comportements. Les données sont représentées par des variables et les comportements sont définis par des fonctions ou des méthodes. Les instructions algorithmiques, quant à elles, sont des étapes précises qui permettent de réaliser une tâche. Elles sont exécutées dans un ordre déterminé et peuvent inclure des conditions, des boucles et des fonctions.
+            </Paragraphe>
+            <Paragraphe>
+                Dans cette leçon, nous allons apprendre à manipuler des objets et à écrire des instructions algorithmiques simples.
+            </Paragraphe>
+        </Introduction>
+        <Contenu>
+            <Sous-titre>Les objets en programmation</Sous-titre>
+            <Paragraphe>
+                En programmation orientée objet, un objet est une instance d'une classe. Une classe est un modèle qui décrit les caractéristiques communes à un ensemble d'objets. Par exemple, si nous avons une classe "Voiture", chaque objet de cette classe aura des attributs communs tels que la couleur, la marque, le modèle, etc.
+            </Paragraphe>
+            <Paragraphe>
+                Pour créer un objet en programmation, nous devons d'abord définir une classe qui le décrit. Ensuite, nous pouvons créer des instances de cette classe en utilisant le mot clé "new".
+            </Paragraphe>
+            <Sous-titre>Les variables et les types de données</Sous-titre>
+            <Paragraphe>
+                Les variables sont des emplacements de mémoire qui contiennent des données. En programmation, il existe différents types de données tels que les entiers, les décimaux, les chaînes de caractères, les booléens, etc. Chaque type de données a des caractéristiques spécifiques et des limites de stockage.
+            </Paragraphe>
+            <Paragraphe>
+                Pour déclarer une variable en programmation, nous devons spécifier son nom et son type de données. Par exemple, "int age = 25;" déclare une variable nommée "age" de type entier et lui attribue la valeur 25.
+            </Paragraphe>
+            <Sous-titre>Les fonctions et les méthodes</Sous-titre>
+            <Paragraphe>
+                Les fonctions et les méthodes sont des blocs de code qui effectuent des tâches spécifiques. Les fonctions sont des blocs de code indépendants qui peuvent être appelés de n'importe où dans le programme, tandis que les méthodes sont des fonctions qui sont liées à un objet spécifique.
+            </Paragraphe>
+            <Paragraphe>
+                Pour appeler une fonction en programmation, nous devons utiliser son nom suivi de ses arguments entre parenthèses. Par exemple, "int resultat = maFonction(2, 3);" appelle la fonction "maFonction" avec les arguments 2 et 3 et stocke le résultat dans la variable "resultat".
+            </Paragraphe>
+        </Contenu>
+    </Lecon>
+
+    <lecon>
+        <titre>Les structures de contrôle et Organigrammes en algorithmique</titre>
+
+        <paragraphe>
+            En algorithmique, les structures de contrôle permettent de modifier le flux d'exécution d'un programme en fonction de certaines conditions. Ces structures sont essentielles pour résoudre des problèmes complexes.
+        </paragraphe>
+        <sous-titre>Les structures de contrôle conditionnelles</sous-titre>
+        <paragraphe>
+            Les structures de contrôle conditionnelles permettent d'exécuter une ou plusieurs instructions en fonction d'une condition. La structure de base est le "if...else". Il existe également le "switch" qui permet de tester plusieurs conditions à la fois.
+        </paragraphe>
+        <sous-titre>Les structures de contrôle itératives</sous-titre>
+        <paragraphe>
+            Les structures de contrôle itératives permettent d'exécuter plusieurs fois une ou plusieurs instructions tant qu'une condition est vraie. La structure de base est la boucle "while", mais il existe également la boucle "do...while" et la boucle "for".
+        </paragraphe>
+        <sous-titre>Les structures de contrôle de saut</sous-titre>
+        <paragraphe>
+            Les structures de contrôle de saut permettent de sauter certaines instructions en fonction d'une condition. La structure de base est le "goto", mais il est souvent préférable d'utiliser des structures alternatives comme le "break" ou le "continue".
+        </paragraphe>
+        <sous-titre>Les organigrammes</sous-titre>
+        <paragraphe>
+            Les organigrammes sont des représentations graphiques des algorithmes. Ils permettent de mieux comprendre le flux d'exécution d'un programme et de détecter plus facilement les erreurs.
+        </paragraphe>
+    </lecon>
+
+    <lecon>
+        <titre>Exécution des algorithmes simples</titre>
+
+        <paragraphe>
+            L'exécution des algorithmes simples est la base de la programmation. Elle permet de décrire une suite d'instructions qui seront exécutées par un ordinateur pour résoudre un problème donné. L'exécution d'un algorithme se fait en suivant un ordre précis et en respectant les règles de syntaxe du langage de programmation utilisé.
+        </paragraphe>
+        <sous-titre>Les variables et les types de données</sous-titre>
+        <paragraphe>
+            Les variables sont des espaces de stockage en mémoire qui permettent de stocker des valeurs. En programmation, il existe différents types de données tels que les nombres entiers, les nombres décimaux, les chaînes de caractères, les booléens, etc.
+        </paragraphe>
+        <sous-titre>Les opérateurs arithmétiques</sous-titre>
+        <paragraphe>
+            Les opérateurs arithmétiques permettent d'effectuer des opérations mathématiques simples sur des variables. Il s'agit notamment des opérateurs de l'addition, de la soustraction, de la multiplication, de la division, etc.
+        </paragraphe>
+        <sous-titre>Les instructions conditionnelles</sous-titre>
+        <paragraphe>
+            Les instructions conditionnelles permettent d'exécuter une instruction ou un bloc d'instructions uniquement si une condition est remplie. La structure de base est le "if...else", mais il existe également d'autres structures telles que le "switch".
+        </paragraphe>
+        <sous-titre>Les boucles</sous-titre>
+        <paragraphe>
+            Les boucles permettent de répéter une instruction ou un bloc d'instructions plusieurs fois tant qu'une condition est remplie. Il existe plusieurs types de boucles tels que la boucle "while", la boucle "do...while" et la boucle "for".
+        </paragraphe>
+        <sous-titre>Les fonctions</sous-titre>
+        <paragraphe>
+            Les fonctions permettent de regrouper des instructions réutilisables dans un programme. Elles peuvent recevoir des paramètres en entrée et renvoyer une valeur en sortie.
+        </paragraphe>
+        <sous-titre>Les tableaux</sous-titre>
+        <paragraphe>
+            Les tableaux permettent de stocker plusieurs valeurs dans une seule variable. Chaque valeur est accessible grâce à un indice. Il est possible de créer des tableaux à une ou plusieurs dimensions.
+        </paragraphe>
+    </lecon>
+
+</lecons>

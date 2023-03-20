@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <published>1997</published>
+    </book>
+    <book>
+        <title>The Hitchhiker's Guide to the Galaxy</title>
+        <author>Douglas Adams</author>
+        <published>1979</published>
+    </book>
+</books>

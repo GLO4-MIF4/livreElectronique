@@ -69,7 +69,9 @@
                     android:gravity="center"
                     android:elevation="2dp"
                     android:background="@color/white"
-                    android:layout_margin="2dp">
+                    android:layout_margin="2dp"
+                    android:onClick="afficherLecons"
+                    android:id="@+id/CrLecon1">
                     <ImageView
                         android:layout_width="50dp"
                         android:layout_height="80dp"
@@ -1229,6 +1231,62 @@
                     />
             </LinearLayout>
 
+        </LinearLayout>
+
+<!--    -&#45;yyyyyyyyyy45;&#45;&#45;&#45;&#45;&#45;    recycleView &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45; -->
+
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints"
+            android:elevation="20dp"
+            android:background="@color/white">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/moudel1"
+                android:textStyle="bold"
+                android:paddingLeft="20dp"
+                android:gravity="center"
+                android:textAllCaps="true"
+                android:textSize="20dp"
+                android:elevation="20dp"
+                android:background="@color/vert_menthe"
+                android:textColor="@color/white"
+                />
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/recycleViewCours1"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints"
+            android:elevation="20dp"
+            android:background="@color/white">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/module2"
+                android:textStyle="bold"
+                android:paddingLeft="20dp"
+                android:gravity="center"
+                android:textAllCaps="true"
+                android:textSize="20dp"
+                android:elevation="20dp"
+                android:background="@color/vert_menthe"
+                android:textColor="@color/white"
+                />
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/recycleViewCours2"/>
         </LinearLayout>
 
     </LinearLayout>

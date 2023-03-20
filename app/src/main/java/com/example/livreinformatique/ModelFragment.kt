@@ -13,4 +13,6 @@ class ModelFragment(private val layoutResourceId: Int) : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View = inflater.inflate(layoutResourceId, container, false)
+
+
 }

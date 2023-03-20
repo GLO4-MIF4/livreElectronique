@@ -6,35 +6,296 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--    <androidx.appcompat.widget.Toolbar-->
+<!--        android:id="@+id/toolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="80dp"-->
+<!--        android:background="@color/Violet_clair_exr"-->
+<!--        android:elevation="4dp"-->
+<!--        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:ignore="MissingConstraints">
-        <androidx.viewpager.widget.ViewPager
+        android:layout_height="match_parent">
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/viewpager"/>
+            android:orientation="horizontal"
+            android:gravity="center"
+            tools:ignore="MissingConstraints">
+            <LinearLayout
+                android:layout_width="320dp"
+                android:layout_height="540dp"
+                android:orientation="vertical"
+                android:layout_marginTop="0dp"
+                android:gravity="center"
+                tools:ignore="MissingConstraints">
 
-        <com.google.android.material.tabs.TabLayout
-            android:layout_marginTop="30dp"
+                <LinearLayout
+                    android:layout_marginBottom="20dp"
+                    android:padding="10dp"
+                    android:background="#17253b"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/programme"/>
+
+                    <LinearLayout
+                        android:padding="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        >
+                        <TextView
+                            android:padding="5dp"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:fontFamily="serif-monospace"
+                            android:textSize="15dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Plongez dans le monde passionnant de l'informatique nieveau 3eme "/>
+                        <Button
+                            android:onClick="voir"
+                            android:id="@+id/voirplus"
+                            android:textSize="12dp"
+                            android:textColor="@color/black"
+                            android:backgroundTint="@color/white"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Voir Plus ..."/>
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+                    <Button
+
+                        android:layout_width="157dp"
+                        android:layout_height="97dp"
+                        android:text="Cours"
+                        android:onClick="submitC"
+                        android:id="@+id/cours_main_body"/>
+                    <Button
+                        android:layout_width="157dp"
+                        android:layout_height="97dp"
+                        android:backgroundTint="@color/Violet_clair_exr"
+                        android:layout_marginLeft="5dp"
+                        android:text="Exercices"
+                        android:onClick="submitE"
+                        android:id="@+id/exercices_main"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="-6dp"
+                    >
+                    <Button
+                        android:onClick="submitJ"
+                        android:layout_width="157dp"
+                        android:layout_height="97dp"
+                        android:backgroundTint="@color/Rose_poudre_jar"
+                        android:text="Jargon"
+                        android:id="@+id/jargon_main"/>
+                    <Button
+                        android:layout_width="157dp"
+                        android:layout_height="97dp"
+                        android:layout_marginLeft="5dp"
+                        android:backgroundTint="@color/Rouge_cerise_quiz"
+                        android:text="Quiz"
+                        android:onClick="submitQ"
+                        android:id="@+id/quiz_main"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/tabLayout"
-            app:tabGravity="center"
-            app:tabMode="scrollable"
-            android:outlineAmbientShadowColor="@color/black"
-            android:outlineSpotShadowColor="@color/Jaune_pale"
-            app:tabTextColor="@color/Gris_fonce"
-            app:tabIndicatorColor="@color/Rouge_cerise_quiz"
-            app:tabRippleColor="@color/vert_menthe_fort"
-            app:tabSelectedTextColor="@color/black_overlay"
-            android:background="@color/vert_menthe"
-            android:layout_alignParentBottom="true">
-        </com.google.android.material.tabs.TabLayout>
+            android:background="@color/vert_menthe">
 
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:focusable="true">
+                <ImageButton
+                    android:id="@+id/home"
+                    android:onClick="submitH"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/home"
+                    android:background="@color/vert_menthe"
+                    />
+                <TextView
+                    android:layout_marginTop="-5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="home"
+                    android:textSize="9dp"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
 
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:focusable="true"
+               >
+                <ImageButton
+                    android:id="@+id/cours_24"
+                    android:onClick="submitH"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cours_24"
+                    android:background="@color/vert_menthe"
+                    />
+                <TextView
+                    android:layout_marginTop="-5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="cours"
+                    android:textSize="9dp"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
 
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:focusable="true"
+                >
+                <ImageButton
+                    android:id="@+id/exercice_24"
+                    android:onClick="submitH"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/exercice_24"
+                    android:background="@color/vert_menthe"
+                    />
+                <TextView
+                    android:layout_marginTop="-5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="exercices"
+                    android:textSize="9dp"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:focusable="true"
+                >
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/quiz_24"
+                    android:background="@color/vert_menthe"
+                    android:id="@+id/quiz_24"
+                    android:onClick="submitH"
+                    />
+                <TextView
+                    android:layout_marginTop="-5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Quiz"
+                    android:textSize="9dp"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:focusable="true"
+               >
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/jargon_24"
+                    android:background="@color/vert_menthe"
+                    android:id="@+id/jargon_24"
+                    android:onClick="submitH"
+                    />
+                <TextView
+                    android:layout_marginTop="-5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="jargon"
+                    android:textSize="9dp"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
+
+        </LinearLayout>
     </RelativeLayout>
+
+<!--    <RelativeLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        tools:ignore="MissingConstraints">-->
+<!--        <androidx.viewpager.widget.ViewPager-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/viewpager"/>-->
+
+<!--        <com.google.android.material.tabs.TabLayout-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/tabLayout"-->
+<!--            app:tabGravity="center"-->
+<!--            app:tabMode="scrollable"-->
+<!--            android:outlineAmbientShadowColor="@color/black"-->
+<!--            android:outlineSpotShadowColor="@color/Jaune_pale"-->
+<!--            app:tabTextColor="@color/Gris_fonce"-->
+<!--            app:tabIndicatorColor="@color/Rouge_cerise_quiz"-->
+<!--            app:tabRippleColor="@color/vert_menthe_fort"-->
+<!--            app:tabSelectedTextColor="@color/black_overlay"-->
+<!--            android:background="@color/vert_menthe"-->
+<!--            android:layout_alignParentBottom="true">-->
+<!--        </com.google.android.material.tabs.TabLayout>-->
+
+<!--    </RelativeLayout>-->
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

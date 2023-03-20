@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizs xmlns:android="http://schemas.android.com/apk/res/android">
+    <quiz>
+        <question>
+            <text>Quel est le rôle de l'unité centrale dans un ordinateur ?</text>
+            <answer>Elle est responsable de l'exécution des instructions et du traitement des données</answer>
+            <answer>Elle est responsable de l'affichage des images sur l'écran</answer>
+            <answer>Elle est responsable de la gestion du clavier et de la souris</answer>
+            <answer>Elle est responsable de la connexion à Internet</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quels sont les composants principaux de l'unité centrale ?</text>
+            <answer>Le processeur, la mémoire vive et la carte mère</answer>
+            <answer>Le disque dur, la carte graphique et la carte son</answer>
+            <answer>Le clavier, la souris et l'écran</answer>
+            <answer>Le modem, le routeur et le switch</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle du processeur dans l'unité centrale ?</text>
+            <answer>Il exécute les instructions et effectue les opérations mathématiques et logiques</answer>
+            <answer>Il stocke les données de manière permanente</answer>
+            <answer>Il affiche les images sur l'écran</answer>
+            <answer>Il gère la connexion à Internet</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction de la mémoire vive dans l'unité centrale ?</text>
+            <answer>Elle stocke temporairement les données et les programmes en cours d'utilisation</answer>
+            <answer>Elle stocke les données de manière permanente</answer>
+            <answer>Elle gère la connexion à Internet</answer>
+            <answer>Elle affiche les images sur l'écran</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle de la carte mère dans l'unité centrale ?</text>
+            <answer>Elle permet la communication entre les différents composants de l'ordinateur</answer>
+            <answer>Elle stocke les données de manière permanente</answer>
+            <answer>Elle affiche les images sur l'écran</answer>
+            <answer>Elle gère la connexion à Internet</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'une souris optique ?</text>
+            <answer>Une souris qui utilise une boule pour détecter les mouvements</answer>
+            <answer>Une souris qui utilise un rayon laser pour détecter les mouvements</answer>
+            <answer>Une souris qui utilise un capteur optique pour détecter les mouvements</answer>
+            <answer>Une souris qui utilise un aimant pour détecter les mouvements</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est l'élément qui permet d'afficher les informations à l'écran ?</text>
+            <answer>La souris</answer>
+            <answer>Le clavier</answer>
+            <answer>Le processeur</answer>
+            <answer>Le moniteur</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle de l'imprimante ?</text>
+            <answer>Elle permet de lire les informations stockées sur un disque dur</answer>
+            <answer>Elle permet de copier des fichiers d'un ordinateur à un autre</answer>
+            <answer>Elle permet de numériser des documents</answer>
+            <answer>Elle permet d'imprimer des documents sur papier</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quel est l'élément qui permet de stocker les données de manière permanente ?</text>
+            <answer>La RAM</answer>
+            <answer>Le disque dur</answer>
+            <answer>Le processeur</answer>
+            <answer>Le lecteur DVD</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle de l'enceinte ?</text>
+            <answer>Elle permet de stocker des données</answer>
+            <answer>Elle permet de communiquer avec d'autres ordinateurs</answer>
+            <answer>Elle permet de lire les CD et DVD</answer>
+            <answer>Elle permet de produire du son</answer>
+            <feedback>4</feedback>
+        </question>
+    </quiz>
+
+    <!--    ////////////////////////////////////////////////////////-->
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'un système d'exploitation ?</text>
+            <answer>Un logiciel qui permet à l'utilisateur d'interagir avec l'ordinateur et les autres logiciels</answer>
+            <answer>Un logiciel qui permet aux autres logiciels de fonctionner correctement</answer>
+            <answer>Un logiciel qui gère les opérations d'entrée/sortie et la mémoire de l'ordinateur</answer>
+            <answer>Un logiciel qui permet de visualiser des images et des vidéos sur l'ordinateur</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle d'un BIOS ?</text>
+            <answer>Il permet de gérer les connexions réseau de l'ordinateur</answer>
+            <answer>Il permet de gérer les périphériques de stockage de l'ordinateur</answer>
+            <answer>Il permet de démarrer l'ordinateur et d'initialiser le matériel</answer>
+            <answer>Il permet de créer des sauvegardes des fichiers de l'ordinateur</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle d'un gestionnaire de périphériques ?</text>
+            <answer>Il permet de gérer les connexions réseau de l'ordinateur</answer>
+            <answer>Il permet de gérer les périphériques de stockage de l'ordinateur</answer>
+            <answer>Il permet de gérer les pilotes de périphériques et de les installer/désinstaller</answer>
+            <answer>Il permet de gérer les logiciels installés sur l'ordinateur</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle d'un firewall ?</text>
+            <answer>Il permet de protéger l'ordinateur contre les virus</answer>
+            <answer>Il permet de bloquer les publicités indésirables sur internet</answer>
+            <answer>Il permet de contrôler les accès au réseau et de bloquer les connexions non autorisées</answer>
+            <answer>Il permet de surveiller les performances de l'ordinateur et d'optimiser les ressources</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est le rôle d'un défragmenteur de disque dur ?</text>
+            <answer>Il permet de sauvegarder les fichiers importants de l'ordinateur</answer>
+            <answer>Il permet de nettoyer le disque dur des fichiers inutiles</answer>
+            <answer>Il permet d'optimiser l'utilisation de l'espace disque en regroupant les fragments de fichiers</answer>
+            <answer>Il permet de surveiller l'activité de l'ordinateur et de détecter les problèmes</answer>
+            <feedback>3</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'un logiciel d'application ?</text>
+            <answer>Un logiciel destiné à l'utilisateur final pour réaliser des tâches spécifiques</answer>
+            <answer>Un logiciel destiné aux développeurs pour programmer des applications</answer>
+            <answer>Un logiciel destiné à la maintenance du système informatique</answer>
+            <answer>Un logiciel destiné à la gestion des ressources matérielles</answer>
+            <feedback>1</feedback>
+        </question>
+
+        <question>
+            <text>Citez un exemple de logiciel d'application bureautique.</text>
+            <answer>Microsoft Office</answer>
+            <answer>Adobe Photoshop</answer>
+            <answer>Autodesk AutoCAD</answer>
+            <answer>Google Chrome</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un logiciel d'application en ligne ?</text>
+            <answer>Un logiciel qui s'exécute sur un serveur distant et qui est accessible via un navigateur web</answer>
+            <answer>Un logiciel qui est installé sur l'ordinateur de l'utilisateur et qui fonctionne sans connexion internet</answer>
+            <answer>Un logiciel qui est intégré au système d'exploitation de l'ordinateur</answer>
+            <answer>Un logiciel qui est utilisé pour la virtualisation d'un système informatique</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un logiciel open source ?</text>
+            <answer>Un logiciel dont le code source est accessible et modifiable librement par la communauté</answer>
+            <answer>Un logiciel dont l'accès est restreint à un nombre limité d'utilisateurs</answer>
+            <answer>Un logiciel dont le code source est secret</answer>
+            <answer>Un logiciel qui ne peut être utilisé qu'avec une licence payante</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un logiciel propriétaire ?</text>
+            <answer>Un logiciel dont l'utilisation est soumise à une licence restrictive</answer>
+            <answer>Un logiciel dont le code source est accessible et modifiable librement par la communauté</answer>
+            <answer>Un logiciel gratuit</answer>
+            <answer>Un logiciel open source</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <!--    ////////////////////////////////////////////////////////////-->
+    <quiz>
+        <question>
+            <text>Qu'est-ce que la maintenance informatique ?</text>
+            <answer>Le fait d'entretenir et de réparer les équipements informatiques</answer>
+            <answer>Le fait de développer des logiciels pour l'informatique</answer>
+            <answer>Le fait de déployer des réseaux informatiques</answer>
+            <answer>Le fait d'assister les utilisateurs pour l'informatique</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un contrat de maintenance informatique ?</text>
+            <answer>Un contrat qui définit les modalités d'assistance et de réparation des équipements informatiques</answer>
+            <answer>Un contrat qui définit les modalités d'achat des équipements informatiques</answer>
+            <answer>Un contrat qui définit les modalités de développement de logiciels pour l'informatique</answer>
+            <answer>Un contrat qui définit les modalités de déploiement de réseaux informatiques</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un plan de maintenance informatique ?</text>
+            <answer>Un document qui répertorie les équipements informatiques à maintenir et les tâches de maintenance à effectuer</answer>
+            <answer>Un document qui décrit les modalités d'assistance et de réparation des équipements informatiques</answer>
+            <answer>Un document qui décrit les modalités d'achat des équipements informatiques</answer>
+            <answer>Un document qui décrit les modalités de développement de logiciels pour l'informatique</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un contrat de niveau de service (SLA) ?</text>
+            <answer>Un contrat qui définit les modalités de niveau de qualité de service attendu en matière de maintenance informatique</answer>
+            <answer>Un contrat qui définit les modalités d'achat des équipements informatiques</answer>
+            <answer>Un contrat qui définit les modalités de développement de logiciels pour l'informatique</answer>
+            <answer>Un contrat qui définit les modalités de déploiement de réseaux informatiques</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce que la prévention en maintenance informatique ?</text>
+            <answer>L'ensemble des actions visant à éviter les pannes et les dysfonctionnements des équipements informatiques</answer>
+            <answer>L'ensemble des actions visant à assister les utilisateurs pour l'informatique</answer>
+            <answer>L'ensemble des actions visant à développer des logiciels pour l'informatique</answer>
+            <answer>L'ensemble des actions visant à déployer des réseaux informatiques</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+
+    <quiz>
+        <question>
+            <text>Qu'est-ce que la surchauffe d'un ordinateur ?</text>
+            <answer>L'augmentation anormale de la température interne de l'ordinateur</answer>
+            <answer>La réduction de la température interne de l'ordinateur</answer>
+            <answer>Le fonctionnement normal de l'ordinateur</answer>
+            <answer>L'arrêt de l'ordinateur pour éviter la surchauffe</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quel est le composant le plus vulnérable de l'ordinateur en cas de surtension électrique ?</text>
+            <answer>Le bloc d'alimentation</answer>
+            <answer>Le disque dur</answer>
+            <answer>La carte mère</answer>
+            <answer>La carte graphique</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment protéger son ordinateur contre les virus informatiques ?</text>
+            <answer>Installer un logiciel antivirus</answer>
+            <answer>Éviter de télécharger des fichiers de sources inconnues</answer>
+            <answer>Effectuer des mises à jour régulières du système d'exploitation et des logiciels installés</answer>
+            <answer>Toutes les réponses sont correctes</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quel est le risque encouru si on ne défragmente pas régulièrement son disque dur ?</text>
+            <answer>Le ralentissement de l'ordinateur</answer>
+            <answer>La perte de données</answer>
+            <answer>La surchauffe de l'ordinateur</answer>
+            <answer>L'endommagement du disque dur</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Que faut-il faire pour protéger son ordinateur des surtensions électriques ?</text>
+            <answer>Brancher l'ordinateur sur une prise électrique équipée d'un parafoudre</answer>
+            <answer>Brancher l'ordinateur sur une prise électrique classique</answer>
+            <answer>Utiliser une rallonge électrique non équipée d'un parafoudre</answer>
+            <answer>Ne rien faire, les surtensions électriques ne sont pas dangereuses pour l'ordinateur</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'un virus informatique ?</text>
+            <answer>Un programme malveillant qui se propage en infectant des fichiers</answer>
+            <answer>Un dispositif matériel qui altère le fonctionnement d'un ordinateur</answer>
+            <answer>Un logiciel qui permet de récupérer des données perdues</answer>
+            <answer>Un type d'erreur qui survient lors de l'exécution d'un programme</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un cheval de Troie (ou trojan) ?</text>
+            <answer>Un programme malveillant qui se cache dans un programme apparemment inoffensif</answer>
+            <answer>Un dispositif matériel qui permet de réaliser des attaques à distance</answer>
+            <answer>Un logiciel qui permet de protéger un ordinateur contre les virus</answer>
+            <answer>Un type d'erreur qui survient lors de l'exécution d'un programme</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un logiciel espion (spyware) ?</text>
+            <answer>Un programme malveillant qui recueille des informations sur l'utilisateur à son insu</answer>
+            <answer>Un dispositif matériel qui permet de surveiller à distance l'activité d'un ordinateur</answer>
+            <answer>Un logiciel qui permet de détecter et de supprimer les virus</answer>
+            <answer>Un type d'erreur qui survient lors de l'exécution d'un programme</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un pare-feu (firewall) ?</text>
+            <answer>Un dispositif logiciel ou matériel qui contrôle les échanges entre un réseau et l'extérieur</answer>
+            <answer>Un logiciel qui permet de bloquer les virus et les programmes malveillants</answer>
+            <answer>Un dispositif matériel qui permet de protéger un ordinateur contre les surtensions électriques</answer>
+            <answer>Un type d'erreur qui survient lors de l'exécution d'un programme</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelles sont les mesures de protection recommandées pour éviter les attaques par hameçonnage (phishing) ?</text>
+            <answer>Ne pas cliquer sur les liens suspects dans les e-mails, ne pas communiquer ses identifiants de connexion à des tiers</answer>
+            <answer>Installer un logiciel antivirus et un pare-feu</answer>
+            <answer>Utiliser des mots de passe complexes et les changer régulièrement</answer>
+            <answer>Toutes les réponses sont correctes</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce que la mémoire cache ?</text>
+            <answer>Une mémoire vive rapide et coûteuse</answer>
+            <answer>Une mémoire de stockage de masse</answer>
+            <answer>Une mémoire qui stocke temporairement les données les plus souvent utilisées</answer>
+            <answer>Une mémoire qui stocke les programmes système</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un SSD ?</text>
+            <answer>Un écran d'ordinateur</answer>
+            <answer>Un périphérique de stockage de masse à base de mémoire flash</answer>
+            <answer>Une unité de traitement central</answer>
+            <answer>Un périphérique d'entrée/sortie</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'utilité de la gestion de la mémoire vive ?</text>
+            <answer>Elle permet de stocker les données de l'ordinateur à long terme</answer>
+            <answer>Elle permet de stocker les données de l'utilisateur</answer>
+            <answer>Elle permet de stocker temporairement les programmes et les données utilisées par l'ordinateur</answer>
+            <answer>Elle permet de stocker les programmes système</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction d'un ventilateur dans un ordinateur ?</text>
+            <answer>Rafraîchir l'air ambiant</answer>
+            <answer>Refroidir les composants de l'ordinateur pour éviter la surchauffe</answer>
+            <answer>Nettoyer les poussières</answer>
+            <answer>Augmenter les performances de l'ordinateur</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce que l'overclocking ?</text>
+            <answer>Une technique pour augmenter les performances d'un ordinateur en augmentant la fréquence d'horloge du processeur</answer>
+            <answer>Une technique pour réduire la consommation d'énergie d'un ordinateur</answer>
+            <answer>Une technique pour augmenter la capacité de stockage d'un disque dur</answer>
+            <answer>Une technique pour améliorer la qualité de l'affichage sur un écran</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+
+    <!--//////////////////////////////////////////////////////////////////-->
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'un tableur ?</text>
+            <answer>Un logiciel permettant de créer des tableaux de données et d'effectuer des calculs sur ces données</answer>
+            <answer>Un logiciel de traitement de texte</answer>
+            <answer>Un logiciel de retouche photo</answer>
+            <answer>Un logiciel de navigation internet</answer>
+            <feedback>1</feedback>
+        </question>
+
+        <question>
+            <text>Quel est le format de fichier le plus couramment utilisé pour les fichiers de tableurs ?</text>
+            <answer>XLSX</answer>
+            <answer>PDF</answer>
+            <answer>JPG</answer>
+            <answer>DOCX</answer>
+            <feedback>1</feedback>
+        </question>
+
+        <question>
+            <text>Quels types de données peuvent être stockés dans un tableur ?</text>
+            <answer>Nombres</answer>
+            <answer>Texte</answer>
+            <answer>Date et heure</answer>
+            <answer>Toutes les réponses sont correctes</answer>
+            <feedback>4</feedback>
+        </question>
+
+        <question>
+            <text>Qu'est-ce qu'une formule dans un tableur ?</text>
+            <answer>Une expression mathématique ou logique permettant d'effectuer des calculs sur les données d'une feuille de calcul</answer>
+            <answer>Un ensemble de cellules ayant des propriétés communes</answer>
+            <answer>Un graphique représentant les données d'une feuille de calcul</answer>
+            <answer>Un ensemble de données stockées dans une feuille de calcul</answer>
+            <feedback>1</feedback>
+        </question>
+
+        <question>
+            <text>Qu'est-ce qu'un graphique dans un tableur ?</text>
+            <answer>Une représentation visuelle des données d'une feuille de calcul</answer>
+            <answer>Un ensemble de cellules ayant des propriétés communes</answer>
+            <answer>Une formule mathématique ou logique permettant d'effectuer des calculs sur les données d'une feuille de calcul</answer>
+            <answer>Un ensemble de données stockées dans une feuille de calcul</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'une formule en Excel ?</text>
+            <answer>Un texte que l'on écrit dans une cellule</answer>
+            <answer>Une série de données numériques</answer>
+            <answer>Un ensemble d'instructions qui effectuent un calcul ou une opération sur les données</answer>
+            <answer>Un graphique qui représente les données</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Comment commence-t-on la saisie d'une formule en Excel ?</text>
+            <answer>En cliquant sur la cellule où on veut insérer la formule et en écrivant directement la formule</answer>
+            <answer>En cliquant sur le bouton "Formule" dans le ruban Excel</answer>
+            <answer>En cliquant sur la cellule où on veut insérer la formule et en appuyant sur la touche "F2"</answer>
+            <answer>Aucune des réponses précédentes n'est correcte</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Comment recopier une formule dans une autre cellule en Excel ?</text>
+            <answer>En cliquant sur la cellule où se trouve la formule, puis en faisant un clic droit et en sélectionnant "Recopier"</answer>
+            <answer>En sélectionnant la cellule où se trouve la formule, puis en appuyant sur les touches "Ctrl+C" pour copier et "Ctrl+V" pour coller la formule dans une autre cellule</answer>
+            <answer>En cliquant sur la cellule où se trouve la formule, puis en faisant glisser la poignée de recopie jusqu'à la cellule où on veut copier la formule</answer>
+            <answer>Aucune des réponses précédentes n'est correcte</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Comment fait-on référence à une cellule dans une formule en Excel ?</text>
+            <answer>En écrivant le nom de la cellule entre parenthèses, par exemple (A1)</answer>
+            <answer>En écrivant le numéro de ligne et de colonne de la cellule séparés par un point, par exemple A.1</answer>
+            <answer>En écrivant le nom de la cellule précédé du signe "$", par exemple $A$1</answer>
+            <answer>En écrivant simplement le nom de la cellule, par exemple A1</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction qui permet de trouver la valeur maximale dans une plage de cellules en Excel ?</text>
+            <answer>MAX()</answer>
+            <answer>SOMME()</answer>
+            <answer>MOYENNE()</answer>
+            <answer>MIN()</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce que la mise en forme conditionnelle dans un tableur ?</text>
+            <answer>Une fonction permettant de formater le texte en fonction de certaines conditions</answer>
+            <answer>Une fonction permettant de calculer des valeurs conditionnellement</answer>
+            <answer>Une fonction permettant de mettre en évidence certaines données en fonction de conditions spécifiques</answer>
+            <answer>Une fonction permettant de trier les données en fonction de certaines conditions</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quelles sont les étapes pour créer une règle de mise en forme conditionnelle ?</text>
+            <answer>Définir la plage de cellules à mettre en forme, choisir le type de mise en forme et spécifier les conditions</answer>
+            <answer>Définir la plage de cellules à mettre en forme, choisir le type de fonction et spécifier les conditions</answer>
+            <answer>Définir la plage de cellules à mettre en forme, spécifier les conditions et choisir la couleur de la mise en forme</answer>
+            <answer>Définir la plage de cellules à mettre en forme, choisir la couleur de la mise en forme et spécifier les conditions</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quels sont les types de mise en forme conditionnelle disponibles dans Excel ?</text>
+            <answer>Les règles de mise en forme conditionnelle basées sur les valeurs, les règles de mise en forme conditionnelle basées sur les formules et les règles de mise en forme conditionnelle basées sur les icônes</answer>
+            <answer>Les règles de mise en forme conditionnelle basées sur les couleurs, les règles de mise en forme conditionnelle basées sur les polices et les règles de mise en forme conditionnelle basées sur les bordures</answer>
+            <answer>Les règles de mise en forme conditionnelle basées sur les graphiques, les règles de mise en forme conditionnelle basées sur les images et les règles de mise en forme conditionnelle basées sur les tableaux</answer>
+            <answer>Les règles de mise en forme conditionnelle basées sur les styles, les règles de mise en forme conditionnelle basées sur les objets et les règles de mise en forme conditionnelle basées sur les formats</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment supprimer une règle de mise en forme conditionnelle dans Excel ?</text>
+            <answer>Cliquer sur la règle de mise en forme conditionnelle dans le menu "Mise en forme conditionnelle" et sélectionner "Supprimer la règle"</answer>
+            <answer>Cliquer sur la cellule contenant la règle de mise en forme conditionnelle et appuyer sur "Supprimer"</answer>
+            <answer>Cliquer sur la plage de cellules contenant la règle de mise en forme conditionnelle et appuyer sur "Supprimer"</answer>
+            <answer>Cliquer sur le menu "Mise en forme conditionnelle" et sélectionner "Supprimer toutes les règles de mise en forme conditionnelle"</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment peut-on ajouter une mise en forme conditionnelle dans un tableur ?</text>
+            <answer>En sélectionnant les cellules à formater, puis en cliquant sur "Mise en forme conditionnelle" dans le menu principal</answer>
+            <answer>En sélectionnant les cellules à formater, puis en cliquant sur "Mise en forme" dans le menu principal et en choisissant "Conditionnelle"</answer>
+            <answer>En cliquant sur une cellule, puis en sélectionnant "Mise en forme conditionnelle" dans le menu contextuel</answer>
+            <answer>En sélectionnant les cellules à formater, puis en tapant la formule de mise en forme conditionnelle dans la barre de formule</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Quelle fonction de texte permet de convertir une valeur numérique en texte formaté selon des règles spécifiques ?</text>
+            <answer>TEXTE</answer>
+            <answer>CONCATENER</answer>
+            <answer>STXT</answer>
+            <answer>SOMME.SI</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction de date et heure permettant de retourner le numéro de semaine dans l'année d'une date donnée ?</text>
+            <answer>ANNEE</answer>
+            <answer>MOIS</answer>
+            <answer>JOUR</answer>
+            <answer>NO.SEMAINE</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction permettant de concaténer des chaînes de texte en une seule ?</text>
+            <answer>CONCATENER</answer>
+            <answer>STXT</answer>
+            <answer>TEXTE</answer>
+            <answer>SOMME.SI</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction permettant de calculer le nombre de jours ouvrés entre deux dates ?</text>
+            <answer>JOURSEM</answer>
+            <answer>DIFFERENCE.JOURS</answer>
+            <answer>NB.JOURS.OUVRES</answer>
+            <answer>NOW</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction permettant de convertir une date en texte formaté selon des règles spécifiques ?</text>
+            <answer>TEXTE</answer>
+            <answer>CONCATENER</answer>
+            <answer>STXT</answer>
+            <answer>SOMME.SI</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Quelle est la fonction mathématique qui calcule la racine carrée d'un nombre ?</text>
+            <answer>sqrt()</answer>
+            <answer>pow()</answer>
+            <answer>log()</answer>
+            <answer>exp()</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction mathématique qui calcule le cosinus d'un angle en radians ?</text>
+            <answer>sin()</answer>
+            <answer>cos()</answer>
+            <answer>tan()</answer>
+            <answer>acos()</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction mathématique qui calcule la valeur absolue d'un nombre ?</text>
+            <answer>abs()</answer>
+            <answer>ceil()</answer>
+            <answer>floor()</answer>
+            <answer>round()</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction mathématique qui calcule le maximum de deux nombres ?</text>
+            <answer>max()</answer>
+            <answer>min()</answer>
+            <answer>pow()</answer>
+            <answer>sqrt()</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la fonction mathématique qui calcule la partie entière d'un nombre ?</text>
+            <answer>abs()</answer>
+            <answer>ceil()</answer>
+            <answer>floor()</answer>
+            <answer>round()</answer>
+            <feedback>3</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Quelle est la fonctionnalité qui permet de représenter des données sous forme graphique dans un tableur ?</text>
+            <answer>Le graphique</answer>
+            <answer>La formule</answer>
+            <answer>Le tri</answer>
+            <answer>La mise en forme conditionnelle</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quel est le type de graphique le plus adapté pour comparer des valeurs numériques ?</text>
+            <answer>Le graphique en courbes</answer>
+            <answer>Le graphique en secteurs</answer>
+            <answer>Le graphique en barres</answer>
+            <answer>Le graphique en surface</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Comment peut-on ajouter une étiquette à un axe dans un graphique Excel ?</text>
+            <answer>En double-cliquant sur l'axe</answer>
+            <answer>En cliquant sur l'axe puis en appuyant sur la touche Entrée</answer>
+            <answer>En cliquant sur l'axe puis en appuyant sur la touche Suppr</answer>
+            <answer>En cliquant sur l'axe puis en utilisant l'onglet "Format" dans le ruban</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quel type de graphique permet de montrer l'évolution d'une quantité sur une période de temps ?</text>
+            <answer>Le graphique en secteurs</answer>
+            <answer>Le graphique en barres</answer>
+            <answer>Le graphique en courbes</answer>
+            <answer>Le graphique en nuages de points</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Comment peut-on modifier la couleur d'un élément dans un graphique Excel ?</text>
+            <answer>En double-cliquant sur l'élément</answer>
+            <answer>En cliquant sur l'élément puis en appuyant sur la touche Entrée</answer>
+            <answer>En cliquant sur l'élément puis en appuyant sur la touche Suppr</answer>
+            <answer>En cliquant sur l'élément puis en utilisant l'onglet "Format" dans le ruban</answer>
+            <feedback>4</feedback>
+        </question>
+    </quiz>
+    <!--    //////////////////////////////////////////////////////////////-->
+    <quiz>
+        <question>
+            <text>Quel est le nombre maximal qu'on peut représenter avec 8 bits en binaire ?</text>
+            <answer>64</answer>
+            <answer>128</answer>
+            <answer>255</answer>
+            <answer>256</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Comment s'appelle le système de numération qui utilise la base 16 ?</text>
+            <answer>Hexadécimal</answer>
+            <answer>Binaire</answer>
+            <answer>Octal</answer>
+            <answer>Décimal</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment s'appelle le système de numération qui utilise la base 8 ?</text>
+            <answer>Octal</answer>
+            <answer>Binaire</answer>
+            <answer>Hexadécimal</answer>
+            <answer>Décimal</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment s'appelle le système de numération qui utilise la base 2 ?</text>
+            <answer>Binaire</answer>
+            <answer>Octal</answer>
+            <answer>Hexadécimal</answer>
+            <answer>Décimal</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Le système de numération qu'utilise les langages informatiques est :</text>
+            <answer>Binaire</answer>
+            <answer>Octal</answer>
+            <answer>Hexadécimal</answer>
+            <answer>Décimal</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Quelle est la méthode générale pour convertir un nombre d'une base $b$ à une base $10$ ?</text>
+            <answer>Multiplier chaque chiffre du nombre par sa puissance de $b$ correspondante, puis sommer les résultats obtenus</answer>
+            <answer>Diviser le nombre par $b$ jusqu'à ce qu'il atteigne $0$, en gardant le reste à chaque étape, puis concaténer les restes en ordre inverse pour obtenir le résultat</answer>
+            <answer>Diviser le nombre par $10$ jusqu'à ce qu'il atteigne $0$, en gardant le reste à chaque étape, puis concaténer les restes en ordre inverse pour obtenir le résultat</answer>
+            <answer>Multiplier chaque chiffre du nombre par sa puissance de $10$ correspondante, puis sommer les résultats obtenus</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment convertir un nombre de base $10$ en une base $b$ ?</text>
+            <answer>Diviser le nombre par $b$ jusqu'à ce qu'il atteigne $0$, en gardant le reste à chaque étape, puis concaténer les restes en ordre inverse pour obtenir le résultat</answer>
+            <answer>Multiplier chaque chiffre du nombre par sa puissance de $b$ correspondante, puis sommer les résultats obtenus</answer>
+            <answer>Diviser le nombre par $10$ jusqu'à ce qu'il atteigne $0$, en gardant le reste à chaque étape, puis concaténer les restes en ordre inverse pour obtenir le résultat</answer>
+            <answer>Multiplier chaque chiffre du nombre par sa puissance de $10$ correspondante, puis sommer les résultats obtenus</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la méthode pour convertir un nombre de base $b_1$ en une base $b_2$ ?</text>
+            <answer>Convertir le nombre en base $10$, puis le convertir en base $b_2$</answer>
+            <answer>Convertir le nombre en base $b_2$, puis le convertir en base $b_1$</answer>
+            <answer>Convertir le nombre en base $10$, puis le convertir en base $b_1$</answer>
+            <answer>Il n'existe pas de méthode générale pour convertir un nombre de base $b_1$ en une base $b_2$</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment représenter le nombre décimal $52$ en base binaire (base 2) ?</text>
+            <answer>110100</answer>
+            <answer>101010</answer>
+            <answer>101011</answer>
+            <answer>110011</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Comment représenter le nombre binaire $110101$ en base octale (base 8) ?</text>
+            <answer>65</answer>
+            <answer>52</answer>
+            <answer>55</answer>
+            <answer>51</answer>
+            <feedback>3</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Quelle est la valeur décimale de l'addition binaire 1011 + 1101 ?</text>
+            <answer>11000</answer>
+            <answer>11100</answer>
+            <answer>11010</answer>
+            <answer>10010</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est la valeur hexadécimale de 1111 1010 en base 16 ?</text>
+            <answer>0xFA</answer>
+            <answer>0xDF</answer>
+            <answer>0xCA</answer>
+            <answer>0xEE</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la valeur octale de 1010110 en base 8 ?</text>
+            <answer>52</answer>
+            <answer>125</answer>
+            <answer>42</answer>
+            <answer>66</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est le résultat de la multiplication binaire 1010 x 1101 ?</text>
+            <answer>1001101</answer>
+            <answer>1101010</answer>
+            <answer>1110110</answer>
+            <answer>1111000</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quel est le complément à 2 de la valeur décimale -27 en binaire sur 8 bits ?</text>
+            <answer>11100011</answer>
+            <answer>10011011</answer>
+            <answer>11100101</answer>
+            <answer>10010101</answer>
+            <feedback>2</feedback>
+        </question>
+    </quiz>
+    <!--    ///////////////////////////////////////////////////////////-->
+    <quiz>
+        <question>
+            <text>Qu'est-ce que la codification de l'information ?</text>
+            <answer>Le processus de transformation de l'information en signaux compréhensibles par une machine ou un système électronique.</answer>
+            <answer>La méthode permettant de sécuriser l'envoi d'informations sur internet.</answer>
+            <answer>La technique qui permet de stocker des données sur un disque dur.</answer>
+            <answer>Le processus de transformation d'un signal numérique en signal analogique.</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce qu'un bit ?</text>
+            <answer>Un chiffre binaire qui représente la valeur 1 ou 0.</answer>
+            <answer>Une unité de mesure de la vitesse de transmission de données.</answer>
+            <answer>Une unité de mesure de la taille de stockage des données.</answer>
+            <answer>Un format de fichier compressé.</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce que l'encodage ASCII ?</text>
+            <answer>Un système de codage qui associe des caractères à des nombres binaires.</answer>
+            <answer>Une méthode de cryptage de données sensibles.</answer>
+            <answer>Un format de fichier pour les images numériques.</answer>
+            <answer>Un protocole de communication pour les réseaux informatiques.</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Combien de bits sont nécessaires pour encoder un caractère ASCII ?</text>
+            <answer>7 bits.</answer>
+            <answer>8 bits.</answer>
+            <answer>9 bits.</answer>
+            <answer>10 bits.</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est la valeur binaire de la lettre A en ASCII ?</text>
+            <answer>01000001</answer>
+            <answer>01100001</answer>
+            <answer>10000001</answer>
+            <answer>10100001</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <quiz>
+        <question>
+            <text>Qu'est-ce que le codage ASCII?</text>
+            <answer>Un système de codage des caractères basé sur des nombres entiers</answer>
+            <answer>Un système de codage binaire pour les images</answer>
+            <answer>Un système de codage pour les vidéos</answer>
+            <answer>Un système de codage pour les couleurs</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Combien de bits sont utilisés dans le codage ASCII standard pour représenter un caractère?</text>
+            <answer>7 bits</answer>
+            <answer>8 bits</answer>
+            <answer>16 bits</answer>
+            <answer>32 bits</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Combien de caractères différents peuvent être représentés avec le codage ASCII standard?</text>
+            <answer>256</answer>
+            <answer>128</answer>
+            <answer>64</answer>
+            <answer>32</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quel est le premier caractère ASCII?</text>
+            <answer>NUL</answer>
+            <answer>SOH</answer>
+            <answer>STX</answer>
+            <answer>ETX</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Le codage ASCII est-il capable de représenter des caractères de toutes les langues du monde?</text>
+            <answer>Non</answer>
+            <answer>Oui</answer>
+            <answer>" "</answer>
+            <answer>" "</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <!--//////////////////////////////////////////////////////////e?-->
+    <quiz>
+        <question>
+            <text>Quelle est l'unité de mesure de capacité de stockage d'un disque dur ?</text>
+            <answer>Kilo-octet (ko)</answer>
+            <answer>Méga-octet (Mo)</answer>
+            <answer>Giga-octet (Go)</answer>
+            <answer>Tera-octet (To)</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de capacité de mémoire vive (RAM) ?</text>
+            <answer>Kilo-octet (ko)</answer>
+            <answer>Méga-octet (Mo)</answer>
+            <answer>Giga-octet (Go)</answer>
+            <answer>Tera-octet (To)</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de capacité d'une clé USB ?</text>
+            <answer>Kilo-octet (ko)</answer>
+            <answer>Méga-octet (Mo)</answer>
+            <answer>Giga-octet (Go)</answer>
+            <answer>Tera-octet (To)</answer>
+            <feedback>3</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de capacité d'un DVD-R ?</text>
+            <answer>Kilo-octet (ko)</answer>
+            <answer>Méga-octet (Mo)</answer>
+            <answer>Giga-octet (Go)</answer>
+            <answer>Tera-octet (To)</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de capacité d'un disque SSD ?</text>
+            <answer>Kilo-octet (ko)</answer>
+            <answer>Méga-octet (Mo)</answer>
+            <answer>Giga-octet (Go)</answer>
+            <answer>Tera-octet (To)</answer>
+            <feedback>4</feedback>
+        </question>
+    </quiz>
+
+    <quiz>
+        <question>
+            <text>Quelle est l'unité de mesure de la fréquence d'un processeur ?</text>
+            <answer>Watt</answer>
+            <answer>Hertz</answer>
+            <answer>Bit</answer>
+            <answer>Byte</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de la capacité de stockage d'un disque dur ?</text>
+            <answer>Byte</answer>
+            <answer>Bit</answer>
+            <answer>Gigahertz</answer>
+            <answer>Terabyte</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de la mémoire vive (RAM) d'un ordinateur ?</text>
+            <answer>Watt</answer>
+            <answer>Gigabyte</answer>
+            <answer>Hertz</answer>
+            <answer>Bit</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de la vitesse de transfert de données sur un réseau ?</text>
+            <answer>Second</answer>
+            <answer>Bit par seconde</answer>
+            <answer>Byte par seconde</answer>
+            <answer>Gigahertz</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'unité de mesure de la résolution d'un écran ?</text>
+            <answer>Pixel</answer>
+            <answer>Hertz</answer>
+            <answer>Bit</answer>
+            <answer>Byte</answer>
+            <feedback>1</feedback>
+        </question>
+    </quiz>
+    <!--    /////////////////////////////////////////////-->
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'un algorithme ?</text>
+            <answer>Une suite d'instructions permettant de résoudre un problème</answer>
+            <answer>Un programme informatique complexe</answer>
+            <answer>Un ensemble de données stockées dans une base de données</answer>
+            <answer>Une fonction mathématique complexe</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est la première étape pour écrire un algorithme ?</text>
+            <answer>Déterminer les entrées et les sorties</answer>
+            <answer>Écrire les instructions</answer>
+            <answer>Définir les variables nécessaires</answer>
+            <answer>Analyser le problème à résoudre</answer>
+            <feedback>4</feedback>
+        </question>
+        <question>
+            <text>Quelle est la dernière étape pour écrire un algorithme ?</text>
+            <answer>Tester et déboguer l'algorithme</answer>
+            <answer>Compiler l'algorithme</answer>
+            <answer>Optimiser l'algorithme</answer>
+            <answer>Publier l'algorithme</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quel est le but d'un algorithme ?</text>
+            <answer>Résoudre un problème spécifique</answer>
+            <answer>Écrire du code rapidement</answer>
+            <answer>Comprendre le fonctionnement d'un ordinateur</answer>
+            <answer>Créer une interface utilisateur</answer>
+            <feedback>1</feedback>
+        </question>
+        <question>
+            <text>Quelle est l'utilité d'un algorithme ?</text>
+            <answer>Optimiser les performances d'un programme informatique</answer>
+            <answer>Résoudre des problèmes de manière efficace</answer>
+            <answer>Comprendre le fonctionnement d'un ordinateur</answer>
+            <answer>Créer une interface utilisateur</answer>
+            <feedback>2</feedback>
+        </question>
+    </quiz>
+    <!--    ..................................................................-->
+    <!--    .................................................................-->
+
+    <quiz>
+        <question>
+            <text>Qu'est-ce qu'un objet en programmation orientée objet ?</text>
+            <answer>Une fonction qui effectue des calculs</answer>
+            <answer>Un ensemble de données et de méthodes qui leur sont associées</answer>
+            <answer>Une structure de contrôle qui permet de modifier le flux d'exécution du programme</answer>
+            <answer>Un type de variable numérique</answer>
+            <feedback>2</feedback>        </question>
+        <question>
+            <text>Qu'est-ce qu'une classe en programmation orientée objet ?</text>
+            <answer>Un type de variable numérique</answer>
+            <answer>Une fonction qui effectue des calculs</answer>
+            <answer>Un ensemble de données et de méthodes qui leur sont associées</answer>
+            <answer>Une structure de contrôle qui permet de modifier le flux d'exécution du programme</answer>
+            <feedback>3</feedback>        </question>
+        <question>
+            <text>Qu'est-ce qu'une méthode en programmation orientée objet ?</text>
+            <answer>Un type de variable numérique</answer>
+            <answer>Un ensemble de données et de méthodes qui leur sont associées</answer>
+            <answer>Une fonction qui effectue des calculs sur un objet</answer>
+            <answer>Une structure de contrôle qui permet de modifier le flux d'exécution du programme</answer>
+            <feedback>3</feedback>        </question>
+        <question>
+            <text>Qu'est-ce que l'encapsulation en programmation orientée objet ?</text>
+            <answer>Une technique de cryptage des données d'un objet</answer>
+            <answer>Un mécanisme de protection des données d'un objet, en les rendant inaccessibles depuis l'extérieur</answer>
+            <answer>Un mode de transmission de données entre les objets d'une même classe</answer>
+            <answer>Une méthode permettant de copier un objet existant</answer>
+            <feedback>2</feedback>        </question>
+        <question>
+            <text>Qu'est-ce qu'un objet en programmation orientée objet (POO) ?</text>
+            <answer>Une variable qui stocke une valeur</answer>
+            <answer>Une structure de contrôle qui permet de modifier le flux d'exécution</answer>
+            <answer>Une fonction qui effectue une opération</answer>
+            <answer>Une instance d'une classe qui regroupe des données et des comportements</answer>
+            <feedback>4</feedback>        </question>
+    </quiz>
+
+    <quiz>
+        <question>
+            <text>Quel est le rôle des structures de contrôle en algorithmique ?</text>
+            <answer>Vérifier les erreurs dans le programme</answer>
+            <answer>Modifier le flux d'exécution du programme</answer>
+            <answer>Effectuer des opérations mathématiques</answer>
+            <answer>Contrôler la vitesse d'exécution du programme</answer>
+            <feedback>2</feedback>        </question>
+        <question>
+            <text>Quelle est la structure de contrôle de base pour exécuter une ou plusieurs instructions en fonction d'une condition ?</text>
+            <answer>for</answer>
+            <answer>switch</answer>
+            <answer>if...else</answer>
+            <answer>while</answer>
+            <feedback>3</feedback>        </question>
+        <question>
+            <text>Quelle est la structure de contrôle itérative qui permet d'exécuter plusieurs fois une ou plusieurs instructions tant qu'une condition est vraie ?</text>
+            <answer>while</answer>
+            <answer>for</answer>
+            <answer>do...while</answer>
+            <answer>switch</answer>
+            <feedback>1</feedback>        </question>
+        <question>
+            <text>Quelle est la structure de contrôle de saut qui permet de sauter certaines instructions en fonction d'une condition ?</text>
+            <answer>continue</answer>
+            <answer>goto</answer>
+            <answer>break</answer>
+            <answer>return</answer>
+            <feedback>2</feedback>        </question>
+        <question>
+            <text>Qu'est-ce que les organigrammes en algorithmique ?</text>
+            <answer>Des tableaux permettant de stocker des données</answer>
+            <answer>Des instructions qui permettent d'afficher des messages à l'utilisateur</answer>
+            <answer>Des représentations graphiques des algorithmes</answer>
+            <answer>Des fonctions prédéfinies qui permettent d'effectuer des calculs</answer>
+            <feedback>3</feedback>        </question>
+    </quiz>
+
+    <quiz lecon="25">
+        <question>
+            <text>Quel est le rôle des structures de contrôle en algorithmique ?</text>
+            <answer>Vérifier les erreurs dans le programme</answer>
+            <answer>Modifier le flux d'exécution du programme</answer>
+            <answer>Effectuer des opérations mathématiques</answer>
+            <answer>Contrôler la vitesse d'exécution du programme</answer>
+            <feedback>2</feedback>        </question>
+        <question>
+            <text>Quelle est la structure de contrôle de base pour exécuter une ou plusieurs instructions en fonction d'une condition ?</text>
+            <answer>for</answer>
+            <answer>switch</answer>
+            <answer>if...else</answer>
+            <answer>while</answer>
+            <feedback>3</feedback>        </question>
+        <question>
+            <text>Quelle est la structure de contrôle itérative qui permet d'exécuter plusieurs fois une ou plusieurs instructions tant qu'une condition est vraie ?</text>
+            <answer>while</answer>
+            <answer>for</answer>
+            <answer>do...while</answer>
+            <answer>switch</answer>
+            <feedback>1</feedback>        </question>
+        <question>
+            <text>Quelle est la structure de contrôle de saut qui permet de sauter certaines instructions en fonction d'une condition ?</text>
+            <answer>continue</answer>
+            <answer>goto</answer>
+            <answer>break</answer>
+            <answer>return</answer>
+            <feedback>2</feedback>
+        </question>
+        <question>
+            <text>Qu'est-ce que les organigrammes en algorithmique ?</text>
+            <answer>Des tableaux permettant de stocker des données</answer>
+            <answer>Des instructions qui permettent d'afficher des messages à l'utilisateur</answer>
+            <answer>Des représentations graphiques des algorithmes</answer>
+            <answer>Des fonctions prédéfinies qui permettent d'effectuer des calculs</answer>
+            <feedback>3</feedback>
+        </question>
+    </quiz>
+</quizs>
