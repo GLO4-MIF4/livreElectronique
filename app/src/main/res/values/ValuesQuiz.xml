@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="question">
+        <item>"1 : Qu'est-ce que l'unité centrale ?" </item>
+        <item>"2 : Quel est le rule de l'alimentation dans l'unité centrale ?" </item>
+        <item>"3 : Qu'est-ce que le processeur ?"</item>
+        <item>"4 : Qu'est-ce que la carte mère ?"</item>
+
+        <item>"5 : Quel est l'élément périphérique qui permet de visualiser les données traitées par l'ordinateur ?"</item>
+        <item>"6 : Quel est l'élément périphérique qui permet d'entrer les données dans l'ordinateur ?"</item>
+        <item>"7 : Quel est l'élément périphérique qui permet de stocker les données de manière permanente ?"</item>
+        <item>"8 : Quel est l'élément périphérique qui permet d'imprimer des documents ?"</item>
+
+        <item>"9 : Qu'est-ce qu'un logiciel système ?"</item>
+        <item>"10 : Quel est le rôle de l'interface graphique utilisateur (GUI) ?"</item>
+        <item>"11 : Quel est le rôle de l'utilitaire de défragmentation de disque ?"</item>
+        <item>"12 : Qu'est-ce qu'un pare-feu ?"</item>
+
+        <item>"13 : Qu'est-ce qu'un logiciel d'application ?"</item>
+        <item>"14 : Quel est l'avantage des logiciels d'application par rapport aux logiciels système ?"</item>
+        <item>"16 : Quel est un exemple de logiciel d'application ?"</item>
+        <item>"16 : Que peut-on dire des logiciels d'application open source ?"</item>
+
+        <item>"17 : "</item>
+        <item>"18 : "</item>
+        <item>"19 : "</item>
+        <item>"20 : "</item>
+
+        <item>"21 : "</item>
+        <item>"22 : "</item>
+        <item>"23 : "</item>
+        <item>"24 : "</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+
+    <string-array name="reponse">
+        <item>"La tour de l'ordinateur"</item>
+        <item>Elle alimente la tour</item>
+        <item>Un composant qui exécute les instructions</item>
+        <item>"Le circuit principal qui relie les différents composants de l'unité centrale"</item>
+
+        <item>"L'écran"</item>
+        <item>Le clavier</item>
+        <item>"Le disque dur"</item>
+        <item>"L'imprimante"</item>
+
+        <item>"Un logiciel pour assurer le fonctionnement de l'ordinateur"</item>
+        <item>"Faciliter l'interaction avec l'utilisateur"</item>
+        <item>"Optimiser les performances de l'ordinateur"</item>
+        <item>"Un logiciel pour assurer la sécurité de l'ordinateur"</item>
+
+        <item>"Un logiciel qui permet d'effectuer des tâches spécifiques"</item>
+        <item>"Ils sont plus spécifiques aux besoins de l'utilisateur"</item>
+        <item>"Microsoft Word"</item>
+        <item>"Ils sont gratuits"</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+
+    <string-array name="values">
+        <item>Un périphérique de stockage de données</item>
+        <item>"Le clavier de l'ordinateur"</item>
+        <item>"La tour de l'ordinateur"</item>
+        <item>"La souris de l'ordinateur"</item>
+
+        <item>Elle alimente le moniteur</item>
+        <item>Elle alimente le tour</item>
+        <item>Elle alimente le clavier</item>
+        <item>Elle alimente la souris</item>
+
+        <item>Un composant qui stocke les données</item>
+        <item>Un composant qui gère les entrées/sorties</item>
+        <item>Un composant qui exécute les instructions</item>
+        <item>Un composant qui affiche les images</item>
+
+        <item>Un périphérique de stockage de données</item>
+        <item>Une carte graphique</item>
+        <item>Une carte réseau</item>
+        <item>"Le circuit principal qui relie les différents composants de l'unité centrale"</item>
+
+
+
+        <item>"Le clavier"</item>
+        <item>"L'écran"</item>
+        <item>"L'imprimante"</item>
+        <item>"La souris"</item>
+
+        <item>"Le clavier"</item>
+        <item>"L'écran"</item>
+        <item>"L'imprimante"</item>
+        <item>"La souris"</item>
+
+        <item>"La mémoire vive (RAM)"</item>
+        <item>"Le disque dur"</item>
+        <item>"La carte graphique"</item>
+        <item>"Le processeur"</item>
+
+        <item>"Le clavier"</item>
+        <item>"L'écran "</item>
+        <item>"L'imprimante"</item>
+        <item>"La souris"</item>
+
+
+        <item>"Un logiciel pour créer des documents"</item>
+        <item>Un logiciel pour jouer à des jeux""</item>
+        <item>"Un logiciel pour assurer le fonctionnement de l'ordinateur"</item>
+        <item>"Un logiciel de navigation sur internet"</item>
+
+        <item>"Faciliter l'interaction avec l'utilisateur"</item>
+        <item>"Gérer les périphériques de l'ordinateur"</item>
+        <item>"Optimiser les performances de l'ordinateur"</item>
+        <item>"Gérer les ressources de l'ordinateur"</item>
+
+        <item>"Créer des documents"</item>
+        <item>"Assurer la sécurité de l'ordinateur"</item>
+        <item>"Gérer l'espace disque"</item>
+        <item>"Optimiser les performances de l'ordinateur"</item>
+
+        <item>"Un logiciel pour créer des documents"</item>
+        <item>"Un logiciel pour jouer à des jeux"</item>
+        <item>"Un logiciel pour assurer la sécurité de l'ordinateur"</item>
+        <item>"Un logiciel de navigation sur internet"</item>
+
+        <item>"Un logiciel qui assure le fonctionnement de l'ordinateur"</item>
+        <item>"Un logiciel qui gère les périphériques de l'ordinateur"</item>
+        <item>"Un logiciel qui permet d'effectuer des tâches spécifiques"</item>
+        <item>"Un logiciel qui permet de communiquer avec d'autres ordinateurs"</item>
+
+        <item>"Ils sont plus rapides"</item>
+        <item>"Ils sont plus stables"</item>
+        <item>"Ils sont plus faciles à utiliser"</item>
+        <item>"Ils sont plus spécifiques aux besoins de l'utilisateur"</item>
+
+        <item>"Windows"</item>
+        <item>"Microsoft Word"</item>
+        <item>"Le BIOS"</item>
+        <item>"Les pilotes (drivers)"</item>
+
+        <item>"Ils sont gratuits"</item>
+        <item>"Ils sont payants"</item>
+        <item>"Ils sont moins stables que les logiciels propriétaires"</item>
+        <item>"Ils sont développés par des entreprises privées"</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+
+
+    </string-array>
+
+
+
+</resources>

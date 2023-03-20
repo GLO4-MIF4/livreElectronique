@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".iten.item_courts">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+           <ScrollView
+               android:scrollbars="none"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent">
+               <LinearLayout
+                   android:background="@drawable/rounded_corners_background"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   tools:ignore="MissingConstraints"
+                   android:gravity="center"
+                   android:baselineAligned="true"
+                   android:orientation="vertical">
+                   <LinearLayout
+                       android:layout_width="320dp"
+                       android:layout_height="wrap_content"
+                       android:background="@color/white"
+                       android:elevation="1dp"
+                       android:layout_margin="20dp"
+                       android:orientation="horizontal"
+                       android:gravity="center"
+                       >
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:gravity="center"
+                           android:text="Lecon"
+                           android:textSize="30dp"
+                           android:textStyle="bold"
+                           android:id="@+id/itenLecon1C"
+                           android:fontFamily="sans-serif-smallcaps"/>
+
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="320dp"
+                       android:layout_height="wrap_content"
+                       android:background="@color/white"
+                       android:elevation="1dp"
+                       android:layout_marginTop="20dp"
+                       android:orientation="vertical"
+                       android:layout_marginBottom="100dp"
+                       android:id="@+id/lecon1">
+                       <!--.......................................................-->
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="labo"
+                           android:gravity="center"
+                           android:id="@+id/pointerLeconC"/>
+                       <!--..............................................................-->
+
+
+                       <LinearLayout
+                           android:id="@+id/contenu_cours"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:orientation="vertical">
+
+<!--                           <LinearLayout-->
+<!--                               android:id="@+id/bloctitre"-->
+<!--                               android:layout_width="match_parent"-->
+<!--                               android:layout_height="wrap_content"-->
+<!--                               android:orientation="horizontal"-->
+<!--                               android:gravity="center"-->
+<!--                               android:elevation="10dp"-->
+<!--                               android:layout_margin="10dp"-->
+<!--                               android:background="@drawable/rounded_corners_background">-->
+
+<!--                               <TextView-->
+<!--                                   android:padding="5dp"-->
+<!--                                   android:textStyle="bold"-->
+<!--                                   android:layout_width="wrap_content"-->
+<!--                                   android:layout_height="wrap_content"-->
+<!--                                   android:text="genealogiedfgfgfdgdfg dfg"-->
+<!--                                   android:gravity="center"-->
+<!--                                   android:textSize="20dp"-->
+<!--                                   android:id="@+id/titre"-->
+
+<!--                                   />-->
+
+<!--                           </LinearLayout>-->
+
+
+<!--                           <TextView-->
+<!--                               android:paddingTop="10dp"-->
+<!--                               android:paddingBottom="10dp"-->
+<!--                               android:textStyle="bold"-->
+<!--                               android:layout_width="match_parent"-->
+<!--                               android:layout_height="wrap_content"-->
+<!--                               android:text="Titre "-->
+<!--                               android:gravity="center"-->
+<!--                               android:fontFamily="serif-monospace"-->
+<!--                               android:textSize="20dp"-->
+<!--                               android:id="@+id/titre"/>-->
+
+
+
+<!--                           <RelativeLayout-->
+<!--                               android:layout_width="wrap_content"-->
+<!--                               android:layout_height="200dp"-->
+<!--                               android:orientation="horizontal"-->
+<!--                               android:gravity="center"-->
+<!--                               android:elevation="10dp"-->
+<!--                               android:layout_margin="10dp"-->
+<!--                               android:background="@drawable/rounded_corners_background">-->
+<!--                               <ImageView-->
+<!--                                   android:layout_width="wrap_content"-->
+<!--                                   android:layout_height="200dp"-->
+<!--                                   android:src="@drawable/souris"/>-->
+<!--                               <TextView android:layout_alignParentBottom="true"-->
+<!--                                   android:layout_width="match_parent"-->
+<!--                                   android:layout_height="60dp"-->
+<!--                                   android:text="Titre "-->
+<!--                                   android:gravity="center"-->
+<!--                                   android:textSize="20dp"-->
+<!--                                   android:textColor="@color/white"-->
+<!--                                   android:background="#B5000000"/>-->
+<!--                           </RelativeLayout>-->
+
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:gravity="center"
+                           android:orientation="vertical"
+                           android:layout_marginTop="50dp">
+
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity=""
+                               android:layout_marginLeft="20dp">
+
+                               <Button
+                                   android:id="@+id/iten_quizCour"
+                                   android:onClick="submitQQ"
+                                   android:layout_width="wrap_content"
+                                   android:layout_height="40dp"
+                                   android:backgroundTint="@color/Rouge_cerise_quiz"
+                                   android:text="Quiz"
+                                   />
+                           </LinearLayout>
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="center">
+
+                               <Button
+                                   android:id="@+id/iten_exerciceCour"
+                                   android:onClick="submitEE"
+                                   android:layout_width="wrap_content"
+                                   android:layout_height="40dp"
+                                   android:text="exercices"
+                                   android:backgroundTint="@color/Violet_clair_exr"/>
+                           </LinearLayout>
+
+
+                       </LinearLayout>
+
+                   </LinearLayout>
+
+
+               </LinearLayout>
+           </ScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center">
+                <LinearLayout
+                    android:layout_width="320dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center"
+                    android:layout_marginBottom="5dp">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        >
+                        <ImageButton
+                            android:id="@+id/previuosC"
+                            android:onClick="previous"
+                            android:layout_width="100dp"
+                            android:layout_height="50dp"
+                            android:src="@drawable/left"
+                            android:layout_marginRight="10dp"
+                            android:background="@color/vert_menthe"/>
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-10dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="lecon"
+                                android:textStyle="italic"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1"
+                                android:textSize="15dp"
+                                android:padding="5dp"
+                                android:id="@+id/textPrevC"
+
+                                />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        >
+                        <ImageButton
+                            android:layout_width="100dp"
+                            android:layout_height="50dp"
+                            android:src="@drawable/right"
+                            android:background="@color/vert_menthe"
+                            android:id="@+id/nextC"
+                            android:onClick="next"/>
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-10dp"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentRight="true">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="lecon"
+                                android:textStyle="italic"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="3"
+                                android:textSize="15dp"
+                                android:padding="5dp"
+                                android:id="@+id/textNextC"
+                                />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

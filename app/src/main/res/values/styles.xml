@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/Violet_clair_exr</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <!-- Définir le thème d'application avec le style de bouton personnalisé -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="buttonStyle">@style/MyButtonStyle</item>
+    </style>
+</resources>

@@ -54,6 +54,7 @@
                     android:layout_marginLeft="5dp"
                     android:backgroundTint="@color/Rouge_cerise_quiz"
                     android:text="Quiz"
+                    android:onClick="ChangePage"
                     android:id="@+id/Quiz_main"/>
             </LinearLayout>
 

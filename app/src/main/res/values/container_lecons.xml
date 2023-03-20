@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Cours_lecons">
+        <item>lecons1</item>
+        <item>lecons2</item>
+        <item>lecons3</item>
+        <item>lecons4</item>
+        <item>lecons5</item>
+        <item>lecons6</item>
+        <item>lecons7</item>
+        <item>lecons8</item>
+        <item>lecons9</item>
+        <item>lecons10</item>
+        <item>lecons11</item>
+        <item>lecons12</item>
+        <item>lecons13</item>
+        <item>lecons14</item>
+        <item>lecons15</item>
+        <item>lecons16</item>
+        <item>lecons17</item>
+    </string-array>
+</resources>

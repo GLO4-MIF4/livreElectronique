@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lecons">
+        <item>Leçon 0 : L’unité centrale et son contenu</item>
+        <item>Leçon 1 : Les éléments périphériques d’un ordinateur</item>
+        <item>Leçon 2 : Les logiciels système</item>
+        <item>Leçon 3 : Les logiciels d’applications</item>
+        <item>Leçon 4 : Initiation à la maintenance informatique</item>
+        <item>Leçon 5 : Causes du dysfonctionnement et mesures de protection du matériel informatique</item>
+        <item>Leçon 6 : Causes du dysfonctionnement et mesures de protection du logiciel informatique</item>
+        <item>Leçon 7 : Optimisation d’un ordinateur</item>
+        <item>Leçon 8 : Généralités sur les tableurs</item>
+        <item>Leçon 9 : La saisie et recopie d’une formule</item>
+        <item>Leçon 10 : Mise en forme conditionnelle</item>
+        <item>Leçon 11 : Les fonctions de texte, date et heure</item>
+        <item>Leçon 12 : Les fonctions mathématiques</item>
+        <item>Leçon 13 : Représentation de Graphiques dans un Tableur</item>
+        <item>Leçon 14 : Généralités sur les systèmes de numération</item>
+        <item>Leçon 15 : Conversion d’un nombre d’une base à une autre</item>
+        <item>Leçon 16 : Opérations Arithmétiques dans les bases usuelles 2, 8 et 16</item>
+        <item>Leçon 17 : Généralités sur la codification de l’information</item>
+        <item>Leçon 18 : Le Codage des expressions en ASCII</item>
+        <item>Leçon 19 : Les unités de mesure de capacités</item>
+        <item>Leçon 20 : Les unités de mesures de performance de quelques composants matériels</item>
+        <item>Leçon 21 : La notion d’algorithme</item>
+        <item>Leçon 22 : Les objets et les instructions algorithmiques</item>
+        <item>Leçon 23 : Les structures de contrôle et Organigrammes en algorithmique</item>
+        <item>Leçon 24 : Exécution des algorithmes simples</item>
+    </string-array>
+</resources>
