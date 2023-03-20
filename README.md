@@ -9,14 +9,3 @@ Un livre électronique1, est un fichier électronique contenant un texte numér
     
     
         2.1 authenf
-        
-        file:///home/jiogho/Bureau/tpe_kotlin/photoCou/Screenshot_20230320-014042.png
- file:///home/jiogho/Bureau/tpe_kotlin/photoCou/Screenshot_20230320-014049.png
- 
-        2.2 acceuil
-       file:///home/jiogho/Bureau/tpe_kotlin/photoCou/screenshot/Screenshot_20230320-001937.png
-       
-       2.3  cours
-       
-       
-
