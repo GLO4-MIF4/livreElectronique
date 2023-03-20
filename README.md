@@ -7,8 +7,7 @@ Un livre électronique1, est un fichier électronique contenant un texte numér
 
     2. captures du projet
       2.1 uathentification
-<table>
-    <caption>uathentification</caption>
+<table> 
     <tr>
         <th scope="col"><img src = "https://user-images.githubusercontent.com/109592648/226232592-61584911-50de-4ec6-8cfb-4769a54baa1e.png" height = "600px" width = "320px"> </th>
         <th scope="col"> <img src = "https://user-images.githubusercontent.com/109592648/226232598-128c80e5-4445-4670-b680-e9b4b8484cdb.png" height = "600px" width = "320px"></th>
@@ -18,18 +17,12 @@ Un livre électronique1, est un fichier électronique contenant un texte numér
 
 
        2.2 page d'acceuil 
-       
-      
-   <table>
-    <caption> page d'acceuil </caption>
-    <tr>
-        <th scope="col">  <img src = " https://user-images.githubusercontent.com/109592648/226236193-062ddbd3-b09d-4ab4-bb8e-50aec8601f4f.png" height = "600px" width = "320px" >
-                    </th>
-        <th scope="col">main</th>
-      
-    </tr>
-</table>
-
+   <tr>  
+    <img src = " https://user-images.githubusercontent.com/109592648/226236193-062ddbd3-b09d-4ab4-bb8e-50aec8601f4f.png" height = "600px" width = "320px" >
+     </tr>               
+        ,,,</tr>
+    
+ </table>
 
  <table>
     <caption> page d'acceuil </caption>
@@ -49,7 +42,7 @@ Un livre électronique1, est un fichier électronique contenant un texte numér
 </table>
 
 
-
+,,,</tr>
  <img src = " https://user-images.githubusercontent.com/109592648/226236941-13463bb5-c4e6-466d-b5b9-bf1cde9bbc03.png" height = "600px" width = "320px" >
  <img src = "https://user-images.githubusercontent.com/109592648/226236945-ad639040-9fd0-46dc-bfc2-5b013d785d2c.png" height = "600px" width = "320px" >
  <img src = "https://user-images.githubusercontent.com/109592648/226236947-2b6fc77a-5578-446b-a256-a1c0c6a92a00.png" height = "600px" width = "320px" >
